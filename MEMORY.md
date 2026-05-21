@@ -12,6 +12,7 @@
 ## Workflow
 - OpenClaw workspace is synced via git repo `git@github.com:etarran-aerospect/openclaw-workspace.git`.
 - Habit: `git pull --rebase` before starting work; commit + push after sessions so both machines stay in sync.
+- 2026-05-21 reinstall recovery: local workspace was reconnected to `https://github.com/etarran-aerospect/openclaw-workspace.git` after Ethan provided the repo URL. `origin/main` contained the missing long-term and daily memory files, which were restored selectively.
 
 ## Setup notes
 - Primary chat surface: Telegram DM.
@@ -26,3 +27,7 @@
 - On 2026-02-27, finalization assets were added in the same folder (`website-finalization-runbook`, `lovable-compact-input`, and 10-minute manual QA checklist) and homepage messaging was tightened around decision-ready vineyard intelligence.
 - Pitch deck work added on 2026-02-27: Market Opportunity slide drafts (exec + investor versions) in `reports/` and uploaded to Drive folder `Pitch Deck Slide Drafts 2026-02-27`.
 - On 2026-03-24, Ethan confirmed the correct local AeroSpect homepage baseline for preview/edit work is `/home/ethan/.openclaw/workspace/aerospect-homepage-preview-live-baseline/` (not `aerospect/` and not `aerospect-deployed-site/aerospect`). This is the one with the live-style homepage `How It Works` section, the text “From flight to recommendation, we turn aerial data into practical vineyard decisions.”, and image `/images/drone-inspection.jpg` targeted for the 3-image replacement preview.
+
+## Restore Notes
+- Do not import backup credentials, device auth, Telegram pairing, bot token config, gateway token config, or old Windows-specific paths unless Ethan explicitly asks and current runtime needs them.
+- The local file backup at `~/projects/openclaw-backup` did not include prior memory files; the GitHub repo was the source of recovered memory.
