@@ -25,6 +25,7 @@
 
 ## Active project notes
 - AeroSpect infrastructure/data-center positioning: frame as aerial reality capture, construction progress documentation, photogrammetry, GIS site intelligence, thermal imaging, and perimeter/security documentation for mission-critical construction and data-center-adjacent contractors. Avoid generic "drone services" language.
+- For mission-critical/data-center positioning, Ethan's non-geographic BVLOS waiver should be presented as a deployment-speed advantage for drone dock systems: less waiting on a new site-specific waiver process, useful when construction/security work sits idle for long periods and then suddenly needs recurring monitoring to start immediately.
 - AeroSpect website migration prep completed on 2026-02-26 with a packaged handoff for Lovable in `reports/website-handoff-2026-02-26/` (prompts, NDVI overlay TypeScript data, and asset checklist).
 - On 2026-02-27, finalization assets were added in the same folder (`website-finalization-runbook`, `lovable-compact-input`, and 10-minute manual QA checklist) and homepage messaging was tightened around decision-ready vineyard intelligence.
 - Pitch deck work added on 2026-02-27: Market Opportunity slide drafts (exec + investor versions) in `reports/` and uploaded to Drive folder `Pitch Deck Slide Drafts 2026-02-27`.
