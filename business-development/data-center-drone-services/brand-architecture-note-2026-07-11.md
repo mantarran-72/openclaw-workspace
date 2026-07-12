@@ -49,12 +49,14 @@ Other viable directions:
 - `Overline Site Intelligence` - suggests aerial perspective without saying drone; slightly more abstract.
 - `Fieldmark Intelligence` - credible and grounded, but may still feel closer to land/agriculture than data centers.
 - `Clearline Site Intelligence` - clear and operational, but "Clearline" is crowded across AI, media, and pipeline monitoring.
+- `OverSite Intelligence` - semantically strong because it combines overhead visibility with site oversight, but likely too crowded/risky for ownership.
 
 Avoid for now:
 
 - Anything led by `Drone`, `UAV`, `Sky`, or `Aerial Services`.
 - `Apex Aerial Intelligence` unless a deeper legal/domain/social screen comes back clean.
 - Generic `Aerial Intelligence` because that phrase is already used by multiple companies and reads broad.
+- `OverSite Intelligence` unless a deeper screen shows it is usable; quick public search found adjacent use by construction/site AI, drone intelligence, energy AI, and site/drone platforms.
 
 ## Name Risk
 
@@ -70,6 +72,16 @@ Quick public search found the `Apex Aerial` namespace is crowded:
 - `Advanced Aerial Intelligence Solutions` - California-based aerial/drone service wording overlap.
 
 This does not automatically kill the name, but it means `Apex Aerial Intelligence` may be hard to own cleanly in search, domains, social handles, and trademark positioning.
+
+Quick public search also found `OverSite` / `Oversite` is crowded in adjacent categories:
+
+- `OverSite` by EWS - UxV intelligence and drone database.
+- `Oversite` at `oversite.so` - AI site walkthrough / construction site intelligence.
+- `OverSiteAI` - real-time AI solutions for oil and gas / energy.
+- `Oversite Industry` - near-real-time satellite intelligence for energy activity.
+- `SitePhotos` references integration with an `OverSite` platform for processed drone data.
+
+The concept is good, but the name may be difficult to own cleanly.
 
 ## Better Positioning Frame
 
