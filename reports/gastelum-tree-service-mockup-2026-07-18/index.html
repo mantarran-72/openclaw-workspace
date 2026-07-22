@@ -1,0 +1,885 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gastelum Tree Service | Tree Care, Landscaping & Irrigation</title>
+  <meta name="description" content="Gastelum Tree Service provides tree trimming, tree removal, stump grinding, emergency tree service, landscaping, and irrigation across Dixon, Vacaville, Solano, Yolo, Sacramento, and nearby areas.">
+  <style>
+    :root {
+      --evergreen: #0f2d20;
+      --deep: #071a12;
+      --leaf: #2f7d3e;
+      --fresh: #dceecf;
+      --sun: #f0b94c;
+      --sky: #dceefa;
+      --paper: #fbfaf4;
+      --ink: #172018;
+      --muted: #637060;
+      --line: rgba(23, 32, 24, .16);
+      --shadow: 0 18px 50px rgba(7, 26, 18, .22);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--paper);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 30;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 22px;
+      padding: 12px clamp(18px, 4vw, 58px);
+      color: white;
+      background: rgba(7, 26, 18, .96);
+      border-bottom: 1px solid rgba(255, 255, 255, .14);
+      backdrop-filter: blur(12px);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+      font-weight: 950;
+      letter-spacing: .03em;
+      text-transform: uppercase;
+    }
+
+    .brand-logo {
+      width: 48px;
+      height: 48px;
+      flex: 0 0 auto;
+      border-radius: 8px;
+      object-fit: contain;
+      background: white;
+      padding: 3px;
+      box-shadow: 0 8px 18px rgba(0, 0, 0, .16);
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      font-size: 14px;
+      font-weight: 800;
+    }
+
+    .phone {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 0 18px;
+      border-radius: 999px;
+      color: var(--deep);
+      background: var(--sun);
+      font-weight: 950;
+      white-space: nowrap;
+    }
+
+    .hero {
+      min-height: 88svh;
+      display: grid;
+      grid-template-columns: minmax(0, 1.02fr) minmax(340px, .78fr);
+      gap: clamp(28px, 4vw, 64px);
+      align-items: center;
+      padding: clamp(42px, 7vw, 94px) clamp(18px, 5vw, 74px) clamp(38px, 5vw, 66px);
+      color: white;
+      background:
+        linear-gradient(90deg, rgba(7, 26, 18, .98), rgba(7, 26, 18, .82) 48%, rgba(7, 26, 18, .22)),
+        url("assets/yelp/yelp-photo-03.jpg") center / cover;
+    }
+
+    .hero-copy { max-width: 820px; }
+
+    .hero-logo-card {
+      width: min(100%, 330px);
+      margin-bottom: 22px;
+      padding: 14px;
+      border: 1px solid rgba(255, 255, 255, .2);
+      border-radius: 8px;
+      background: rgba(255, 255, 255, .94);
+      box-shadow: var(--shadow);
+    }
+
+    .hero-logo-card img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-height: 260px;
+      object-fit: contain;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin: 0 0 18px;
+      color: #ffe4a8;
+      font-size: 13px;
+      font-weight: 950;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .hero h1 {
+      margin: 0;
+      max-width: 850px;
+      font-size: clamp(42px, 6vw, 76px);
+      line-height: .98;
+      letter-spacing: 0;
+    }
+
+    .hero p {
+      max-width: 680px;
+      margin: 22px 0 0;
+      color: rgba(255, 255, 255, .88);
+      font-size: clamp(18px, 2.1vw, 23px);
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 30px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 50px;
+      padding: 0 22px;
+      border: 1px solid transparent;
+      border-radius: 999px;
+      font-weight: 950;
+    }
+
+    .button.primary {
+      color: var(--deep);
+      background: var(--sun);
+    }
+
+    .button.secondary {
+      color: white;
+      border-color: rgba(255, 255, 255, .34);
+      background: rgba(255, 255, 255, .1);
+    }
+
+    .hero-card {
+      justify-self: center;
+      width: min(100%, 410px);
+      padding: 20px;
+      border: 1px solid rgba(255, 255, 255, .16);
+      border-radius: 8px;
+      background: rgba(7, 26, 18, .72);
+      box-shadow: var(--shadow);
+    }
+
+    .hero-card img {
+      width: 100%;
+      height: 360px;
+      object-fit: cover;
+      border-radius: 7px;
+    }
+
+    .stat-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 14px;
+    }
+
+    .stat {
+      padding: 13px;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, .1);
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 20px;
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 2px;
+      color: rgba(255, 255, 255, .76);
+      font-size: 13px;
+      font-weight: 800;
+    }
+
+    .section {
+      padding: clamp(48px, 7vw, 88px) clamp(18px, 5vw, 74px);
+    }
+
+    .section.dark {
+      color: white;
+      background: var(--deep);
+    }
+
+    .section.green { background: var(--fresh); }
+
+    .wrap {
+      width: min(1160px, 100%);
+      margin: 0 auto;
+    }
+
+    .trust-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 12px;
+      transform: translateY(-28px);
+      margin-bottom: -8px;
+    }
+
+    .trust-item {
+      min-height: 126px;
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: white;
+      box-shadow: 0 10px 28px rgba(7, 26, 18, .08);
+    }
+
+    .trust-icon {
+      display: grid;
+      place-items: center;
+      width: 38px;
+      height: 38px;
+      margin-bottom: 14px;
+      border-radius: 50%;
+      color: var(--deep);
+      background: #e9f3d8;
+      font-weight: 950;
+    }
+
+    .trust-item strong {
+      display: block;
+      font-size: 16px;
+      line-height: 1.24;
+    }
+
+    .section-head {
+      display: grid;
+      grid-template-columns: minmax(0, .9fr) minmax(280px, .56fr);
+      gap: 28px;
+      align-items: end;
+      margin-bottom: 28px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: clamp(30px, 4vw, 48px);
+      line-height: 1.04;
+      letter-spacing: 0;
+    }
+
+    .lead {
+      margin: 0;
+      color: var(--muted);
+      font-size: 17px;
+    }
+
+    .dark .lead { color: rgba(255, 255, 255, .72); }
+
+    .services {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .service {
+      min-height: 218px;
+      padding: 22px;
+      border: 1px solid rgba(255, 255, 255, .1);
+      border-radius: 8px;
+      color: white;
+      background: linear-gradient(160deg, #17482c, #071a12);
+    }
+
+    .service .num {
+      display: block;
+      margin-bottom: 38px;
+      color: var(--sun);
+      font-weight: 950;
+    }
+
+    .service h3 {
+      margin: 0 0 10px;
+      font-size: 23px;
+      line-height: 1.12;
+    }
+
+    .service p {
+      margin: 0;
+      color: rgba(255, 255, 255, .76);
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: minmax(0, .95fr) minmax(320px, .78fr);
+      gap: clamp(24px, 4vw, 56px);
+      align-items: center;
+    }
+
+    .image-panel {
+      overflow: hidden;
+      border-radius: 8px;
+      background: #d6dcc8;
+      box-shadow: var(--shadow);
+    }
+
+    .image-panel img {
+      width: 100%;
+      height: 430px;
+      object-fit: cover;
+    }
+
+    .callout {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 22px;
+      align-items: center;
+      padding: 26px;
+      border-radius: 8px;
+      color: #1f1a0d;
+      background: var(--sun);
+      box-shadow: var(--shadow);
+    }
+
+    .callout h2 { font-size: clamp(28px, 4vw, 42px); }
+
+    .callout p {
+      margin: 8px 0 0;
+      font-weight: 800;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: 1.15fr .85fr .85fr;
+      gap: 14px;
+    }
+
+    .shot {
+      position: relative;
+      overflow: hidden;
+      min-height: 292px;
+      border-radius: 8px;
+      background: #d9decf;
+    }
+
+    .shot:first-child {
+      grid-row: span 2;
+      min-height: 598px;
+    }
+
+    .shot img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .caption {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      padding: 18px;
+      color: white;
+      font-weight: 950;
+      background: linear-gradient(0deg, rgba(7, 12, 5, .84), rgba(7, 12, 5, 0));
+    }
+
+    .review-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .quote {
+      padding: 24px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: white;
+      box-shadow: 0 10px 30px rgba(7, 26, 18, .07);
+    }
+
+    .quote p {
+      margin: 0;
+      font-size: 18px;
+    }
+
+    .quote span {
+      display: block;
+      margin-top: 14px;
+      color: var(--muted);
+      font-weight: 850;
+    }
+
+    .area {
+      display: grid;
+      grid-template-columns: minmax(0, .7fr) minmax(300px, .7fr);
+      gap: 28px;
+      align-items: center;
+    }
+
+    .cities {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 22px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      min-height: 36px;
+      padding: 0 13px;
+      border-radius: 999px;
+      background: #edf3e1;
+      border: 1px solid var(--line);
+      color: var(--evergreen);
+      font-weight: 850;
+      font-size: 14px;
+    }
+
+    .map-card {
+      padding: 22px;
+      border-radius: 8px;
+      background: var(--sky);
+      border: 1px solid rgba(15, 45, 32, .13);
+    }
+
+    .map-card strong {
+      display: block;
+      margin-bottom: 12px;
+      font-size: 24px;
+      line-height: 1.12;
+    }
+
+    .map-card p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .cta {
+      display: grid;
+      grid-template-columns: minmax(0, .8fr) minmax(320px, .62fr);
+      gap: 28px;
+      align-items: start;
+    }
+
+    .form {
+      padding: 24px;
+      border-radius: 8px;
+      background: white;
+      color: var(--ink);
+    }
+
+    .field { margin-bottom: 14px; }
+
+    label {
+      display: block;
+      margin-bottom: 6px;
+      color: var(--muted);
+      font-weight: 850;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+    }
+
+    input,
+    textarea,
+    select {
+      width: 100%;
+      min-height: 46px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 10px 12px;
+      color: var(--ink);
+      background: #fbfaf4;
+      font: inherit;
+    }
+
+    textarea {
+      min-height: 116px;
+      resize: vertical;
+    }
+
+    footer {
+      color: rgba(255, 255, 255, .76);
+      background: #071a12;
+      padding: 28px clamp(18px, 5vw, 74px);
+      font-size: 14px;
+    }
+
+    .footer-inner {
+      width: min(1160px, 100%);
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      flex-wrap: wrap;
+    }
+
+    @media (max-width: 920px) {
+      .topbar {
+        position: static;
+        flex-wrap: wrap;
+      }
+
+      .nav { display: none; }
+
+      .hero,
+      .section-head,
+      .split,
+      .area,
+      .cta {
+        grid-template-columns: 1fr;
+      }
+
+      .trust-grid,
+      .services,
+      .review-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .gallery {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .shot:first-child {
+        grid-row: auto;
+        grid-column: span 2;
+        min-height: 430px;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .brand span { font-size: 14px; }
+
+      .brand-logo {
+        width: 42px;
+        height: 42px;
+      }
+
+      .phone {
+        width: 100%;
+      }
+
+      .hero {
+        min-height: auto;
+        grid-template-columns: 1fr;
+        padding-top: 42px;
+      }
+
+      .hero h1 {
+        font-size: 41px;
+      }
+
+      .hero-logo-card {
+        width: min(100%, 250px);
+        margin-bottom: 18px;
+        padding: 10px;
+      }
+
+      .hero-logo-card img {
+        max-height: 190px;
+      }
+
+      .hero-card,
+      .button,
+      .callout .button {
+        width: 100%;
+      }
+
+      .trust-grid,
+      .services,
+      .gallery,
+      .review-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .shot:first-child {
+        grid-column: auto;
+        min-height: 360px;
+      }
+
+      .callout {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="Gastelum Tree Service home">
+      <img class="brand-logo" src="assets/gastelum-logo.jpg" alt="Gastelum Tree & Landscape Service logo">
+      <span>Gastelum Tree Service</span>
+    </a>
+    <nav class="nav" aria-label="Primary navigation">
+      <a href="#services">Services</a>
+      <a href="#work">Work</a>
+      <a href="#area">Areas</a>
+      <a href="#quote">Free Estimate</a>
+    </nav>
+    <a class="phone" href="tel:17077180645">707-718-0645</a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="hero-logo-card" aria-label="Gastelum Tree & Landscape Service logo">
+          <img src="assets/gastelum-logo.jpg" alt="Gastelum Tree & Landscape Service logo">
+        </div>
+        <p class="eyebrow">Tree service, landscaping & irrigation</p>
+        <h1>Tree work with the crew, equipment, and cleanup to handle big jobs.</h1>
+        <p>Family-owned tree and landscape service established in 1991, serving Dixon, Vacaville, Solano, Yolo, Sacramento, Napa, and nearby communities.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="tel:17077180645">Call 707-718-0645</a>
+          <a class="button secondary" href="#quote">Request a free estimate</a>
+        </div>
+      </div>
+      <aside class="hero-card" aria-label="Business highlights">
+        <img src="assets/yelp/yelp-photo-02.jpg" alt="Gastelum Tree Service truck and boom equipment">
+        <div class="stat-row">
+          <div class="stat"><strong>4.4</strong><span>Yelp rating</span></div>
+          <div class="stat"><strong>44</strong><span>Yelp reviews</span></div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="section green" aria-label="Trust highlights">
+      <div class="wrap">
+        <div class="trust-grid">
+          <div class="trust-item"><span class="trust-icon">30</span><strong>Established in 1991</strong></div>
+          <div class="trust-item"><span class="trust-icon">★</span><strong>44 Yelp reviews</strong></div>
+          <div class="trust-item"><span class="trust-icon">$</span><strong>Free estimates</strong></div>
+          <div class="trust-item"><span class="trust-icon">!</span><strong>Emergency tree service</strong></div>
+          <div class="trust-item"><span class="trust-icon">✓</span><strong>License info available</strong></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="services" class="section dark">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Tree care, cleanup, landscaping, and irrigation from one local crew.</h2>
+          <p class="lead">The current online listings point to a broader service mix than the existing website shows. This mockup turns those details into clear service paths.</p>
+        </div>
+        <div class="services">
+          <article class="service">
+            <span class="num">01</span>
+            <h3>Tree trimming</h3>
+            <p>Pruning, canopy shaping, clearance work, mistletoe removal, and routine tree care for homes and properties.</p>
+          </article>
+          <article class="service">
+            <span class="num">02</span>
+            <h3>Tree removal</h3>
+            <p>Removal work for unwanted, hazardous, dead, storm-damaged, or access-sensitive trees.</p>
+          </article>
+          <article class="service">
+            <span class="num">03</span>
+            <h3>Stump grinding</h3>
+            <p>Stump removal and cleanup after tree removals, yard renovations, or trip-hazard corrections.</p>
+          </article>
+          <article class="service">
+            <span class="num">04</span>
+            <h3>Emergency service</h3>
+            <p>Urgent tree response for broken limbs, blocked access, storm damage, and hazardous conditions.</p>
+          </article>
+          <article class="service">
+            <span class="num">05</span>
+            <h3>Landscaping</h3>
+            <p>Landscape maintenance, property cleanup, hardscape-adjacent improvements, and yard upgrades.</p>
+          </article>
+          <article class="service">
+            <span class="num">06</span>
+            <h3>Irrigation</h3>
+            <p>Irrigation service and repair paired with tree and landscape maintenance for complete outdoor care.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap split">
+        <div>
+          <p class="eyebrow" style="color: var(--leaf)">Why this mockup works</p>
+          <h2>Their real photos already sell the work. The site should make them easy to trust and call.</h2>
+          <p class="lead" style="margin-top: 16px;">The existing site has a basic call-to-action, but it does not clearly show the equipment, service categories, reviews, or service area. A better one-page site can make the business feel established before the customer ever calls.</p>
+        </div>
+        <div class="image-panel">
+          <img src="assets/yelp/yelp-photo-05.jpg" alt="Multiple Gastelum Tree Service trucks with boom equipment">
+        </div>
+      </div>
+    </section>
+
+    <section class="section green">
+      <div class="wrap callout">
+        <div>
+          <h2>Free estimates for tree, landscape, and irrigation work.</h2>
+          <p>Call directly or send job photos so the crew can understand access, size, hazards, and cleanup needs.</p>
+        </div>
+        <a class="button primary" style="background:#071a12;color:white;" href="tel:17077180645">Call now</a>
+      </div>
+    </section>
+
+    <section id="work" class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Real work photos from recent jobs.</h2>
+          <p class="lead">Yelp photos show the strongest trust signals: branded vehicles, boom equipment, climbers, and large-tree capability.</p>
+        </div>
+        <div class="gallery">
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-04.jpg" alt="Large tree trunk and branded boom truck">
+            <figcaption class="caption">Large removals with boom equipment</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-01.jpg" alt="Gastelum crew trimming trees in a backyard">
+            <figcaption class="caption">Backyard trimming and cleanup</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-06.jpg" alt="Bucket truck working on a street tree">
+            <figcaption class="caption">Street-side bucket truck work</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-07.jpg" alt="Tree climber removing large limbs">
+            <figcaption class="caption">Climber-assisted removals</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-08.jpg" alt="Tree climber pruning high branches">
+            <figcaption class="caption">High pruning and limb control</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section green">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Review highlights.</h2>
+          <p class="lead">Yelp currently shows a 4.4-star rating from 44 reviews. These are short Yelp API review snippets with attribution.</p>
+        </div>
+        <div class="review-grid">
+          <blockquote class="quote">
+            <p>"Excellent job cleaning up the oak trees in our backyard."</p>
+            <span>Gary F. on Yelp</span>
+          </blockquote>
+          <blockquote class="quote">
+            <p>"Their quote for both was reasonable..."</p>
+            <span>Beverly G. on Yelp</span>
+          </blockquote>
+          <blockquote class="quote">
+            <p>"Arrived on time, and was friendly."</p>
+            <span>Karen C. on Yelp</span>
+          </blockquote>
+          <blockquote class="quote">
+            <p>"They cleaned up after themselves very well."</p>
+            <span>Lucius M. on Yelp</span>
+          </blockquote>
+        </div>
+      </div>
+    </section>
+
+    <section id="area" class="section">
+      <div class="wrap area">
+        <div>
+          <p class="eyebrow" style="color: var(--leaf)">Solano, Yolo, Sacramento & nearby Napa areas</p>
+          <h2>Serving Dixon, Vacaville, and surrounding communities.</h2>
+          <p class="lead" style="margin-top: 16px;">Yelp lists service locations across Solano, Yolo, Sacramento, and nearby Napa County communities. This page makes that coverage clearer for customers searching by city.</p>
+          <div class="cities" aria-label="Service area cities">
+            <span class="chip">Dixon</span>
+            <span class="chip">Vacaville</span>
+            <span class="chip">Fairfield</span>
+            <span class="chip">Davis</span>
+            <span class="chip">Winters</span>
+            <span class="chip">Benicia</span>
+            <span class="chip">American Canyon</span>
+            <span class="chip">Napa</span>
+            <span class="chip">Oakville</span>
+            <span class="chip">Rio Vista</span>
+          </div>
+        </div>
+        <div class="map-card">
+          <strong>Lead angle: the current site undersells their coverage.</strong>
+          <p>A simple location section can help customers quickly confirm whether they should call, while also giving the page stronger local SEO signals.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="quote" class="section dark">
+      <div class="wrap cta">
+        <div>
+          <p class="eyebrow">Free estimates</p>
+          <h2>Send photos and get a practical tree or landscape estimate.</h2>
+          <p class="lead" style="margin-top: 16px;">For urgent tree issues, call directly. For planned work, send the address, tree photos, access notes, and whether cleanup, stump grinding, landscaping, or irrigation is needed.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="tel:17077180645">707-718-0645</a>
+            <a class="button secondary" href="sms:17077180645">Text photos</a>
+          </div>
+        </div>
+        <form class="form">
+          <div class="field">
+            <label for="name">Name</label>
+            <input id="name" name="name" autocomplete="name" placeholder="Your name">
+          </div>
+          <div class="field">
+            <label for="phone">Phone</label>
+            <input id="phone" name="phone" autocomplete="tel" placeholder="Best callback number">
+          </div>
+          <div class="field">
+            <label for="service">Job type</label>
+            <select id="service" name="service">
+              <option>Tree trimming</option>
+              <option>Tree removal</option>
+              <option>Stump grinding</option>
+              <option>Emergency tree service</option>
+              <option>Landscaping</option>
+              <option>Irrigation</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="details">What needs work?</label>
+            <textarea id="details" name="details" placeholder="Tree size, access, hazards, cleanup needs, service address, and photos"></textarea>
+          </div>
+          <button class="button primary" type="button" style="width:100%;">Request estimate</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <span>Gastelum Tree Service | Tree Service, Landscaping & Irrigation</span>
+      <span>707-718-0645 | Dixon, CA | Established 1991</span>
+    </div>
+  </footer>
+</body>
+</html>

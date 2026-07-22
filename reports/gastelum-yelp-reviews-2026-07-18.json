@@ -1,0 +1,99 @@
+{
+  "reviews": [
+    {
+      "id": "xkVqzj1knDRTMxkXbLa4MQ",
+      "url": "https://www.yelp.com/biz/gastelum-tree-service-dixon-21?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=xkVqzj1knDRTMxkXbLa4MQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "Gastelum tree service did an excellent job cleaning up the oak trees in our backyard. Highly recommend without reservation. His prices were very reasonable....",
+      "rating": 5.0,
+      "time_created": "2026-06-16 13:46:29",
+      "user": {
+        "id": "J3oAEGgXg_vGPG1SasB0UQ",
+        "profile_url": "https://www.yelp.com/user_details?userid=J3oAEGgXg_vGPG1SasB0UQ",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/bVUInj8Ma5OqC6Oce2Prtg/o.jpg",
+        "name": "Gary F."
+      }
+    },
+    {
+      "id": "m-J_wJzc3gRSw5nJ0-rB5g",
+      "url": "https://www.yelp.com/biz/gastelum-tree-service-dixon-21?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=m-J_wJzc3gRSw5nJ0-rB5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "GASTELUM Tree Service pruned a flowering plum and large Mexican Fan Palm. Their quote for both was reasonable and fell inline with other businesses I...",
+      "rating": 4.0,
+      "time_created": "2026-06-16 09:09:48",
+      "user": {
+        "id": "paGOtdRhqQpYiHozdCNROw",
+        "profile_url": "https://www.yelp.com/user_details?userid=paGOtdRhqQpYiHozdCNROw",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/cEj4FmCUdWi0QeQooPRfRA/o.jpg",
+        "name": "Beverly G."
+      }
+    },
+    {
+      "id": "eRCrM1yEuWZChAx133z1Og",
+      "url": "https://www.yelp.com/biz/gastelum-tree-service-dixon-21?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=eRCrM1yEuWZChAx133z1Og&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "We requested and received an estimate on a small backyard project. Mr. Gastelum arrived on time, and was friendly. He gave me ideas and suggestions for the...",
+      "rating": 4.0,
+      "time_created": "2026-04-25 15:53:16",
+      "user": {
+        "id": "XnRt_OI-KPmc8Sg5UAnxyg",
+        "profile_url": "https://www.yelp.com/user_details?userid=XnRt_OI-KPmc8Sg5UAnxyg",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/qneHxGsXON52qa3UiJ09og/o.jpg",
+        "name": "Karen C."
+      }
+    },
+    {
+      "id": "DUnMK6-8xfxLBo7RPsZnew",
+      "url": "https://www.yelp.com/biz/gastelum-tree-service-dixon-21?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=DUnMK6-8xfxLBo7RPsZnew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "It was a fair price. They took out the trees requested and left a nice canopy with those remaining. They cleaned up after themselves very well.",
+      "rating": 5.0,
+      "time_created": "2026-04-19 13:17:06",
+      "user": {
+        "id": "oqmVCb9sGa-Avt0_9WVbeQ",
+        "profile_url": "https://www.yelp.com/user_details?userid=oqmVCb9sGa-Avt0_9WVbeQ",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/DCfJn3Af5L7PeaKhJmDQ7A/o.jpg",
+        "name": "Lucius M."
+      }
+    },
+    {
+      "id": "AS_Ld1Tk-5DmMY0VHpfXUA",
+      "url": "https://www.yelp.com/biz/gastelum-tree-service-dixon-21?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=AS_Ld1Tk-5DmMY0VHpfXUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "Very satisfied with the work done.  The crew arrived on time & proceeded to work till the job was finished.  My trees look beautiful.",
+      "rating": 5.0,
+      "time_created": "2026-02-07 14:25:23",
+      "user": {
+        "id": "7DVWNJBM-KHSKnPDVf4rUg",
+        "profile_url": "https://www.yelp.com/user_details?userid=7DVWNJBM-KHSKnPDVf4rUg",
+        "image_url": null,
+        "name": "Priscilla"
+      }
+    },
+    {
+      "id": "1RobVkfhAvuijOelNJDtaA",
+      "url": "https://www.yelp.com/biz/gastelum-tree-service-dixon-21?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=1RobVkfhAvuijOelNJDtaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "Highly recommend!!!\nThe crew was efficient and professional and fast. They really know their stuff and were so detailed that they gathered even small sticks...",
+      "rating": 5.0,
+      "time_created": "2023-06-10 11:26:50",
+      "user": {
+        "id": "LswxOxyAP0HCJX1dGXKZ3A",
+        "profile_url": "https://www.yelp.com/user_details?userid=LswxOxyAP0HCJX1dGXKZ3A",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/qyS_yBKgA4sojYk0hjxztw/o.jpg",
+        "name": "Mindy W."
+      }
+    },
+    {
+      "id": "2PoSyBmcVourAUVLtMBQtg",
+      "url": "https://www.yelp.com/biz/gastelum-tree-service-dixon-21?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=2PoSyBmcVourAUVLtMBQtg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "I use them yearly to trim my tree and my backyard landscape.  They always do a great job. They always  clean up very well.   Can't  even tell they were here.",
+      "rating": 5.0,
+      "time_created": "2024-10-22 09:51:07",
+      "user": {
+        "id": "f5bzWgkfO7B0s8r-7HyqaA",
+        "profile_url": "https://www.yelp.com/user_details?userid=f5bzWgkfO7B0s8r-7HyqaA",
+        "image_url": null,
+        "name": "Amanda  .."
+      }
+    }
+  ],
+  "total": 44,
+  "possible_languages": [
+    "en"
+  ]
+}
