@@ -502,143 +502,41 @@
     }
 
     .estimate-flow {
-      position: relative;
-      overflow: hidden;
+      display: grid;
+      gap: 15px;
+      width: min(430px, 100%);
+      justify-self: end;
+      padding: clamp(22px, 4vw, 30px);
       color: var(--ink);
-      background: #f8f5ec;
-      border: 1px solid rgba(239, 192, 97, .44);
-      box-shadow: 0 30px 80px rgba(6, 14, 9, .22);
+      background: #fbfaf6;
+      border: 1px solid rgba(18, 34, 24, .14);
+      border-radius: 8px;
+      box-shadow: 0 28px 74px rgba(3, 12, 6, .32);
     }
 
-    .estimate-flow::before {
-      content: "";
-      position: absolute;
-      inset: 0 0 auto;
-      height: 5px;
-      background: linear-gradient(90deg, var(--gold), #f0c36a 42%, var(--green-650));
-    }
-
-    .estimate-head {
-      position: relative;
-      padding: 27px 24px 18px;
-      color: white;
-      background: var(--green-900);
-      border-bottom: 1px solid rgba(239, 192, 97, .28);
-    }
-
-    .estimate-business {
-      display: flex;
-      justify-content: space-between;
-      gap: 18px;
-      align-items: flex-start;
-    }
-
-    .estimate-business strong {
-      display: block;
-      margin-bottom: 6px;
-      color: white;
-      font-size: 17px;
-      font-weight: 950;
-    }
-
-    .estimate-business span {
-      display: block;
-      color: rgba(255, 255, 255, .68);
-      font-size: 13px;
-      font-weight: 800;
-    }
-
-    .rating {
-      display: flex;
-      gap: 3px;
-      margin-bottom: 6px;
-      color: white;
-      font-size: 11px;
-      line-height: 1;
-    }
-
-    .rating span {
+    .estimate-card-head {
       display: grid;
-      place-items: center;
-      width: 17px;
-      height: 17px;
-      color: #141710;
-      background: var(--gold);
-      font-size: 10px;
-      font-weight: 950;
+      gap: 7px;
+      padding-bottom: 6px;
     }
 
-    .flow-progress {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      height: 5px;
-      margin: 18px -24px -18px;
-      background: rgba(255, 255, 255, .16);
-    }
-
-    .flow-progress span {
-      background: var(--gold);
-    }
-
-    .estimate-step {
-      display: grid;
-      gap: 18px;
-      padding: 28px 24px 24px;
-    }
-
-    .estimate-step[hidden] {
-      display: none;
-    }
-
-    .estimate-step h3 {
-      margin-bottom: 2px;
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(30px, 3vw, 44px);
-      font-weight: 500;
-      line-height: 1;
-    }
-
-    .estimate-step p {
-      margin-bottom: 0;
-      color: var(--muted);
-      font-size: 15px;
-    }
-
-    .choice-list {
-      display: grid;
-      border-top: 1px solid rgba(18, 34, 24, .16);
-    }
-
-    .choice-list label {
-      display: flex;
-      gap: 14px;
-      align-items: center;
-      min-height: 58px;
-      padding: 15px 0;
-      border-bottom: 1px solid rgba(18, 34, 24, .12);
-      color: #435043;
-      font-size: 15px;
-      font-weight: 800;
-      cursor: pointer;
-      transition: color 160ms ease, background 160ms ease;
-    }
-
-    .choice-list label:hover {
+    .estimate-card-head strong {
       color: var(--green-900);
-      background: rgba(71, 99, 57, .07);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 29px;
+      font-weight: 600;
+      line-height: 1;
     }
 
-    .choice-list input {
-      width: 20px;
-      height: 20px;
-      margin: 0;
-      accent-color: var(--green-650);
+    .estimate-card-head span {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 750;
     }
 
     .field-grid {
       display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 14px;
+      gap: 15px;
     }
 
     .field {
@@ -650,61 +548,53 @@
       grid-column: 1 / -1;
     }
 
-    .field label,
-    .photo-note span {
+    .field label {
       color: var(--green-800);
-      font-size: 11px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 15px;
       font-weight: 950;
-      letter-spacing: .11em;
-      text-transform: uppercase;
+      letter-spacing: 0;
+      text-transform: none;
     }
 
     .field input,
     .field select,
     .field textarea {
       width: 100%;
-      min-height: 48px;
-      padding: 12px 13px;
+      min-height: 52px;
+      padding: 13px 15px;
       color: var(--ink);
-      background: white;
-      border: 1px solid rgba(23, 25, 20, .2);
-      border-radius: 0;
+      background: #fdfbf6;
+      border: 1px solid rgba(18, 34, 24, .18);
+      border-radius: 6px;
       font: inherit;
-      font-size: 15px;
+      font-size: 16px;
       transition: border-color 160ms ease, box-shadow 160ms ease;
+    }
+
+    .field select {
+      border-color: var(--green-900);
+      border-width: 2px;
+      cursor: pointer;
     }
 
     .field input:focus,
     .field select:focus,
     .field textarea:focus {
-      border-color: var(--green-650);
-      box-shadow: 0 0 0 3px rgba(71, 99, 57, .16);
+      border-color: var(--gold);
+      box-shadow: 0 0 0 3px rgba(215, 154, 43, .22);
       outline: 0;
     }
 
     .field textarea {
-      min-height: 108px;
+      min-height: 96px;
       resize: vertical;
     }
 
-    .photo-note {
-      display: grid;
-      gap: 8px;
-      padding: 15px;
-      background: #ece5d3;
-      border: 1px solid rgba(71, 99, 57, .22);
-    }
-
-    .photo-note p {
-      font-size: 14px;
-    }
-
     .form-actions {
-      display: flex;
-      justify-content: space-between;
-      gap: 14px;
-      align-items: center;
-      padding-top: 4px;
+      display: grid;
+      gap: 10px;
+      padding-top: 0;
     }
 
     .form-actions button,
@@ -712,16 +602,18 @@
       display: inline-flex;
       justify-content: center;
       align-items: center;
-      min-height: 46px;
-      padding: 0 22px;
+      min-height: 56px;
+      width: 100%;
+      padding: 0 24px;
       border: 0;
-      color: white;
-      background: var(--green-800);
+      border-radius: 999px;
+      color: #13160e;
+      background: var(--gold);
       font: inherit;
-      font-size: 12px;
+      font-size: 15px;
       font-weight: 950;
-      letter-spacing: .09em;
-      text-transform: uppercase;
+      letter-spacing: 0;
+      text-transform: none;
       cursor: pointer;
       transition: background 160ms ease, color 160ms ease, border-color 160ms ease;
     }
@@ -730,27 +622,9 @@
     .form-actions a:hover,
     .form-actions button:focus-visible,
     .form-actions a:focus-visible {
-      color: #15170f;
-      background: var(--gold);
+      color: #11150d;
+      background: #f0b537;
       outline: 0;
-    }
-
-    .form-actions button.secondary {
-      color: var(--green-800);
-      background: transparent;
-      border: 1px solid rgba(71, 99, 57, .26);
-    }
-
-    .form-actions button.secondary:hover,
-    .form-actions button.secondary:focus-visible {
-      color: white;
-      background: var(--green-800);
-      border-color: var(--green-800);
-    }
-
-    .form-actions button:disabled {
-      opacity: .45;
-      cursor: not-allowed;
     }
 
     .estimate-launcher {
@@ -1025,22 +899,6 @@
         grid-template-columns: 1fr;
       }
 
-      .estimate-head,
-      .estimate-step {
-        padding-left: 18px;
-        padding-right: 18px;
-      }
-
-      .flow-progress {
-        margin-left: -18px;
-        margin-right: -18px;
-      }
-
-      .form-actions {
-        align-items: stretch;
-        flex-direction: column-reverse;
-      }
-
       .form-actions button,
       .form-actions a {
         width: 100%;
@@ -1258,102 +1116,38 @@
           </div>
         </div>
         <form class="estimate-flow" aria-label="Request a free tree work estimate">
-          <div class="estimate-head">
-            <div class="estimate-business">
-              <div>
-                <strong>All Tree Service</strong>
-                <div class="rating" aria-label="5.0 Yelp rating">
-                  <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-                </div>
-                <span>Responds quickly during business hours</span>
-              </div>
-              <span>CSLB #1111482</span>
-            </div>
-            <div class="flow-progress" aria-hidden="true"><span></span><i></i><i></i></div>
+          <div class="estimate-card-head">
+            <strong>Request a free estimate</strong>
+            <span>Send the basics first. Photos can be texted after the request.</span>
           </div>
-
-          <section class="estimate-step" data-step="1">
-            <div>
-              <h3>What kind of tree work do you need?</h3>
-              <p>Start with the job type so the crew can size the request quickly.</p>
+          <div class="field-grid">
+            <div class="field">
+              <label for="name">Name</label>
+              <input id="name" name="name" autocomplete="name" placeholder="Your name">
             </div>
-            <div class="choice-list">
-              <label><input type="radio" name="job_type" value="Tree trimming"> Tree trimming or pruning</label>
-              <label><input type="radio" name="job_type" value="Tree removal"> Tree removal</label>
-              <label><input type="radio" name="job_type" value="Storm or emergency cleanup"> Storm or emergency cleanup</label>
-              <label><input type="radio" name="job_type" value="Yard care and brush cleanup"> Yard care and brush cleanup</label>
-              <label><input type="radio" name="job_type" value="Commercial property service"> Commercial property service</label>
-              <label><input type="radio" name="job_type" value="Not sure yet"> Not sure yet</label>
+            <div class="field">
+              <label for="phone">Phone</label>
+              <input id="phone" name="phone" autocomplete="tel" inputmode="tel" placeholder="Best callback number">
             </div>
-            <div class="form-actions">
-              <button class="secondary" type="button" disabled>Back</button>
-              <button type="button" data-next>Next</button>
+            <div class="field">
+              <label for="job-type">Job type</label>
+              <select id="job-type" name="job_type">
+                <option>Tree trimming</option>
+                <option>Tree removal</option>
+                <option>Emergency cleanup</option>
+                <option>Yard care / cleanup</option>
+                <option>Commercial property</option>
+                <option>Not sure yet</option>
+              </select>
             </div>
-          </section>
-
-          <section class="estimate-step" data-step="2" hidden>
-            <div>
-              <h3>How urgent is the job?</h3>
-              <p>Photos help the crew decide whether to call, quote, or schedule a visit.</p>
+            <div class="field">
+              <label for="details">What needs work?</label>
+              <textarea id="details" name="details" placeholder="Tree size, access, hazards, cleanup needs, and address/city"></textarea>
             </div>
-            <div class="field-grid">
-              <div class="field">
-                <label for="urgency">Timing</label>
-                <select id="urgency" name="urgency">
-                  <option>Emergency / today</option>
-                  <option>This week</option>
-                  <option>Flexible timing</option>
-                  <option>Recurring service</option>
-                </select>
-              </div>
-              <div class="field">
-                <label for="property">Property type</label>
-                <select id="property" name="property">
-                  <option>House</option>
-                  <option>Rental property</option>
-                  <option>Estate / acreage</option>
-                  <option>HOA or commercial</option>
-                </select>
-              </div>
-              <div class="field full">
-                <label for="details">What needs work?</label>
-                <textarea id="details" name="details" placeholder="Example: large oak limb over roof, haul away needed, access through side gate."></textarea>
-              </div>
-            </div>
-            <div class="photo-note">
-              <span>Photo prompt</span>
-              <p>Best quote: one wide photo, one close hazard photo, and one photo showing access for truck, chipper, or hauling.</p>
-            </div>
-            <div class="form-actions">
-              <button class="secondary" type="button" data-back>Back</button>
-              <button type="button" data-next>Next</button>
-            </div>
-          </section>
-
-          <section class="estimate-step" data-step="3" hidden>
-            <div>
-              <h3>Where should they follow up?</h3>
-              <p>This demo can connect to a real form, text-message intake, or CRM when the site goes live.</p>
-            </div>
-            <div class="field-grid">
-              <div class="field">
-                <label for="name">Name</label>
-                <input id="name" name="name" autocomplete="name">
-              </div>
-              <div class="field">
-                <label for="phone">Phone</label>
-                <input id="phone" name="phone" autocomplete="tel" inputmode="tel">
-              </div>
-              <div class="field full">
-                <label for="address">Address or nearest cross street</label>
-                <input id="address" name="address" autocomplete="street-address">
-              </div>
-            </div>
-            <div class="form-actions">
-              <button class="secondary" type="button" data-back>Back</button>
-              <a href="sms:17078432333" data-sms-link>Send by text</a>
-            </div>
-          </section>
+          </div>
+          <div class="form-actions">
+            <a href="sms:17078432333" data-sms-link>Request estimate</a>
+          </div>
         </form>
       </div>
     </section>
@@ -1381,20 +1175,7 @@
 
   <script>
     const estimateForm = document.querySelector('.estimate-flow');
-    const estimateSteps = [...document.querySelectorAll('.estimate-step')];
-    const progressCells = [...document.querySelectorAll('.flow-progress > *')];
     const estimateLauncher = document.querySelector('.estimate-launcher');
-    let estimateStep = 0;
-
-    function showEstimateStep(index) {
-      estimateStep = Math.max(0, Math.min(index, estimateSteps.length - 1));
-      estimateSteps.forEach((step, stepIndex) => {
-        step.hidden = stepIndex !== estimateStep;
-      });
-      progressCells.forEach((cell, cellIndex) => {
-        cell.style.background = cellIndex <= estimateStep ? '#d79a2b' : 'transparent';
-      });
-    }
 
     function updateSmsLink() {
       const smsLink = document.querySelector('[data-sms-link]');
@@ -1404,21 +1185,13 @@
       const message = [
         'All Tree Service estimate request',
         `Job type: ${data.get('job_type') || 'Not selected'}`,
-        `Timing: ${data.get('urgency') || ''}`,
-        `Property: ${data.get('property') || ''}`,
         `Details: ${data.get('details') || ''}`,
         `Name: ${data.get('name') || ''}`,
-        `Phone: ${data.get('phone') || ''}`,
-        `Address: ${data.get('address') || ''}`
+        `Phone: ${data.get('phone') || ''}`
       ].join('\n');
 
       smsLink.href = `sms:17078432333?&body=${encodeURIComponent(message)}`;
     }
-
-    estimateForm?.addEventListener('click', (event) => {
-      if (event.target.matches('[data-next]')) showEstimateStep(estimateStep + 1);
-      if (event.target.matches('[data-back]')) showEstimateStep(estimateStep - 1);
-    });
 
     estimateForm?.addEventListener('input', updateSmsLink);
     estimateForm?.addEventListener('change', updateSmsLink);
