@@ -15,6 +15,8 @@ Open `index.html` in a browser. Keep the `assets/` folder beside it.
 - No fake icons, awards, counters, or stock imagery.
 - No blue gradients, blobs, glassmorphism, neon, or generic AI landing-page styling.
 - Call and text-photo actions stay visible and direct.
+- Final CTA uses a Yelp-style quick estimate flow: job type first, then urgency/details, then contact info.
+- The demo "Send by text" button pre-fills an SMS estimate request from the form answers.
 
 ## Sales angle
 
@@ -33,7 +35,7 @@ Useful points:
 ## Price framing
 
 - `Starter launch`: $1,500 one-page premium redesign using existing photos and business info.
-- `Better local setup`: $2,500 with contact form, analytics, Google Business Profile cleanup, review links, image compression, domain/hosting setup, and launch support.
+- `Better local setup`: $2,500 with quick estimate form, analytics, Google Business Profile cleanup, review links, image compression, domain/hosting setup, and launch support.
 - `Ongoing care`: $200/month for edits, backups, uptime checks, seasonal service updates, and small SEO improvements.
 
 The $750 offer from v2 is too low for this quality level. Keep $750 only as a fallback for a very stripped-down rebuild.
