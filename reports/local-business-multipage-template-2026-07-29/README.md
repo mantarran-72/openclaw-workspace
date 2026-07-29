@@ -23,9 +23,11 @@ Reusable starter for Bay Area Design Lab prospect previews.
 3. Replace Unsplash image URLs with client-specific photos wherever possible.
 4. For production, swap the SMS-only form in `contact.html` for the desired form endpoint.
 
-## Structure Rationale
+## Design Rationale
 
-The reference site at `https://treetlc.com/` is useful because it has the right content buckets for a service company: company story, services, equipment/proof, reviews, and contact. This template turns that into a cleaner multi-page structure that can be copied for tree companies, contractors, landscapers, handyman businesses, clinics, salons, and other local operators.
+The reference site at `https://treetlc.com/` is useful because it has both the right content buckets and a credible service-business feel: dark green contact bar, clean white navigation, full-width tree hero image, centered editorial headings, large rounded service blocks, subtle iconography, generous whitespace, proof/review sections, and a simple quote path.
+
+This template keeps those design cues while making the structure cleaner and easier to reuse for tree companies, contractors, landscapers, handyman businesses, clinics, salons, and other local operators.
 
 ## Preview Locally
 
