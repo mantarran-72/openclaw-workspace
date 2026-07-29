@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact | North Bay Tree & Landscape</title>
+  <meta name="description" content="Contact page template for local service businesses with call, text, service area, and estimate request form.">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html"><span class="mark">NB</span><span>North Bay Tree & Landscape<small>Licensed local service template</small></span></a>
+    <nav class="nav" aria-label="Main navigation">
+      <a href="index.html">Home</a><a href="services.html">Services</a><a href="about.html">About</a><a href="work.html">Work</a><a href="reviews.html">Reviews</a><a aria-current="page" href="contact.html">Contact</a>
+    </nav>
+    <div class="header-actions"><a class="button primary" data-phone-link href="tel:17075550148" data-phone-display>(707) 555-0148</a><button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false">=</button></div>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="wrap">
+        <p class="eyebrow">Contact</p>
+        <h1>Make the next step obvious.</h1>
+        <p>This form uses a no-backend SMS handoff by default. For production sites, replace it with the client form endpoint or Bay Area Design Lab lead webhook.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap contact-layout">
+        <div>
+          <h2>Call, text, or send job details.</h2>
+          <p class="lead" style="margin-top: 16px;">Ask for the details that actually help the owner qualify the work: service type, address, photos, access, urgency, and cleanup needs.</p>
+          <div class="actions">
+            <a class="button primary" data-phone-link href="tel:17075550148">Call now</a>
+            <a class="button ghost" data-sms-link href="sms:17075550148">Text photos</a>
+          </div>
+          <ul class="check-list">
+            <li>Serving Napa, Sonoma, Marin, Solano, and nearby communities</li>
+            <li>Residential and commercial service calls</li>
+            <li>Emergency and scheduled work options</li>
+          </ul>
+        </div>
+        <form class="form" data-lead-form>
+          <div class="field"><label for="lead-name">Name</label><input id="lead-name" autocomplete="name" placeholder="Your name"></div>
+          <div class="field"><label for="lead-phone">Phone</label><input id="lead-phone" autocomplete="tel" placeholder="Best callback number"></div>
+          <div class="field">
+            <label for="lead-service">Service</label>
+            <select id="lead-service">
+              <option>Tree trimming</option><option>Tree removal</option><option>Stump grinding</option><option>Emergency service</option><option>Landscaping</option><option>Other</option>
+            </select>
+          </div>
+          <div class="field"><label for="lead-message">Details</label><textarea id="lead-message" placeholder="Address, timing, access notes, hazards, cleanup needs, and photo availability"></textarea></div>
+          <button class="button primary" type="submit" style="width:100%;">Send estimate request</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="footer-inner"><span>North Bay Tree & Landscape</span><span><a data-phone-link href="tel:17075550148" data-phone-display>(707) 555-0148</a></span></div></footer>
+  <script src="assets/site.js"></script>
+</body>
+</html>
