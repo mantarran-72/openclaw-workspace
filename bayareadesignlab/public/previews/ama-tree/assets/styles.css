@@ -199,24 +199,22 @@ a {
   min-height: 76svh;
   display: grid;
   place-items: center;
-  padding: clamp(48px, 7vw, 100px) clamp(18px, 5vw, 74px);
+  padding: clamp(40px, 5vw, 72px) clamp(18px, 5vw, 74px);
   text-align: center;
   color: white;
-  background:
-    linear-gradient(rgba(8, 31, 20, .58), rgba(8, 31, 20, .74)),
-    url("https://workspace-sigma-lac.vercel.app/previews/ama-tree/assets/photos/before-house-tree.jpg") center / cover;
+  background: var(--deep);
 }
 
-.hero-copy { max-width: 820px; }
+.hero-copy { max-width: 1080px; }
 
 .hero-logo {
-  width: min(220px, 58vw);
-  height: min(220px, 58vw);
-  margin: 0 auto 22px;
+  width: min(360px, 72vw);
+  height: min(360px, 72vw);
+  margin: 0 auto 28px;
   border: 1px solid rgba(248, 248, 242, .24);
   border-radius: 50%;
   background: rgba(248, 248, 242, .96) url("https://workspace-sigma-lac.vercel.app/previews/ama-tree/assets/ama-tree-logo-round.jpg") center / 104% auto no-repeat;
-  box-shadow: 0 18px 40px rgba(0, 0, 0, .22);
+  box-shadow: 0 22px 54px rgba(0, 0, 0, .26);
 }
 
 .eyebrow {
@@ -241,6 +239,13 @@ h1 {
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(42px, 6vw, 74px);
   font-weight: 800;
+}
+
+.hero h1 {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: clamp(42px, 5vw, 62px);
 }
 
 h2 {
@@ -842,10 +847,11 @@ textarea {
 
   .hero {
     min-height: auto;
-    padding-top: 42px;
+    padding-top: 32px;
+    padding-bottom: 42px;
   }
 
-  h1 { font-size: 38px; }
+  h1 { font-size: 30px; }
 
   .page-hero h1 { font-size: 38px; }
 
@@ -866,8 +872,8 @@ textarea {
   }
 
   .hero-logo {
-    width: min(168px, 54vw);
-    height: min(168px, 54vw);
+    width: min(200px, 66vw);
+    height: min(200px, 66vw);
     margin-bottom: 18px;
   }
 
