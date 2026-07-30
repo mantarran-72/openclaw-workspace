@@ -442,6 +442,16 @@ h3 { font-size: 23px; }
   object-fit: cover;
 }
 
+.media-panel.family-photo {
+  background: #f8f8f2;
+}
+
+.media-panel.family-photo img {
+  height: 560px;
+  object-fit: contain;
+  object-position: center;
+}
+
 .before-after {
   display: grid;
   grid-template-columns: 1fr 1fr;
