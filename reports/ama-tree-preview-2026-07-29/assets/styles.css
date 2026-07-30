@@ -521,6 +521,7 @@ h3 { font-size: 23px; }
   min-height: 360px;
   display: grid;
   align-items: center;
+  justify-items: center;
   padding: clamp(54px, 8vw, 100px) clamp(18px, 5vw, 74px);
   text-align: center;
   color: white;
@@ -529,9 +530,17 @@ h3 { font-size: 23px; }
     url("https://workspace-sigma-lac.vercel.app/previews/ama-tree/assets/photos/before-backyard-pruning.jpg") center / cover;
 }
 
+.page-hero .wrap {
+  display: grid;
+  justify-items: center;
+  text-align: center;
+}
+
 .page-hero h1 {
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .services-hero {
