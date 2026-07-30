@@ -1,6 +1,6 @@
 const siteConfig = {
-  phoneDisplay: "(510) 900-7334",
-  phoneHref: "15109007334",
+  phoneDisplay: "(510) 660-7110",
+  phoneHref: "15106607110",
   smsIntro: "Hi AMA Tree, I would like help with a tree service estimate."
 };
 
@@ -20,8 +20,8 @@ if (!document.querySelector(".chat-widget")) {
           <input id="chat-phone" autocomplete="tel" placeholder="Phone number">
           <textarea id="chat-message" placeholder="What do you need help with?"></textarea>
           <div class="chat-actions">
-            <a class="button primary" id="chat-text" href="sms:15109007334">Text us</a>
-            <a class="button ghost" data-phone-link href="tel:15109007334">Call now</a>
+            <a class="button primary" id="chat-text" href="sms:15106607110">Text us</a>
+            <a class="button ghost" data-phone-link href="tel:15106607110">Call now</a>
           </div>
         </div>
       </div>

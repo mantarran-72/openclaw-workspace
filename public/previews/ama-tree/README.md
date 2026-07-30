@@ -19,8 +19,8 @@ Reusable starter for Bay Area Design Lab prospect previews.
    - `phoneDisplay`
    - `phoneHref`
    - `smsIntro`
-2. Replace the placeholder business name, service area, license copy, and review excerpts.
-3. Replace Unsplash image URLs with client-specific photos wherever possible.
+2. Update the business name, service area, license copy, and review excerpts as better source material is provided.
+3. Add more client-specific project photos as they come in.
 4. For production, swap the SMS-only form in `contact.html` for the desired form endpoint.
 
 ## Design Rationale
