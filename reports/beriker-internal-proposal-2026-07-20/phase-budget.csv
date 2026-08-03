@@ -1,0 +1,18 @@
+Phase,Labor Hours,Labor @ $85/hr,Materials / Allowances,Subs / Specialty,Phase Subtotal
+"Preconstruction, site verification, permit/inspection coordination",16,1360,200,0,1560
+"Mobilization, site protection, dust control, temporary separation",20,1700,800,0,2500
+"Selective demolition, prep, debris handling",40,3400,1100,1400,5900
+"Existing slab/foundation verification, raised-floor/foundation work",60,5100,5200,2200,12500
+"Exterior wall framing, sheathing, WRB/flashing, siding/trim tie-ins",88,7480,10500,0,17980
+"Windows, exterior French doors, hardware, sill pans, glazing compliance",32,2720,14500,0,17220
+"Electrical rough/finish, lighting, smoke/CO, exterior/GFCI/code items",16,1360,1250,5500,8110
+"HVAC/register extension, refrigerator access, appliance rough-in",24,2040,1500,3000,6540
+"Cabinet/end-panel modifications and kitchen tie-in finish carpentry",36,3060,5500,0,8560
+"Insulation, fire separation, drywall, fire caulk, texture",72,6120,3800,2800,12720
+"Interior trim, paint, flooring, finish hardware, owner selections",80,6800,11000,2500,20300
+"Exterior concrete/landing/grading touch-up and weatherproofing closeout",24,2040,1800,3500,7340
+"Final cleanup, punch, documentation, inspection closeout",20,1700,400,0,2100
+"Direct estimated subtotal",528,44880,57550,20900,123330
+"Project management / overhead / profit reserve, 20%",,,,,24666
+"Estimating contingency, 10% of direct cost",,,,,12333
+"Recommended carried proposal amount",,,,,160329

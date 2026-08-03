@@ -1,0 +1,937 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shelina Pabani Consulting - Executive Homepage / Contact Concept</title>
+    <meta
+      name="description"
+      content="A premium homepage and inquiry concept for Shelina Pabani Consulting."
+    />
+    <style>
+      :root {
+        --ink: #111514;
+        --coal: #1c2422;
+        --stone: #f4f0e8;
+        --panel: #ebe4d8;
+        --line: #d8ccbc;
+        --muted: #66706b;
+        --olive: #53675c;
+        --copper: #9b6a49;
+        --white: #fffdf8;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--stone);
+        color: var(--ink);
+        font-family:
+          "Helvetica Neue", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        line-height: 1.45;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .page {
+        min-height: 100vh;
+      }
+
+      .masthead {
+        display: grid;
+        grid-template-columns: 360px 1fr 230px;
+        border-bottom: 1px solid var(--line);
+        background: rgba(244, 240, 232, 0.94);
+        position: sticky;
+        top: 0;
+        z-index: 20;
+        backdrop-filter: blur(16px);
+      }
+
+      .brand,
+      .nav,
+      .mast-cta {
+        min-height: 76px;
+        display: flex;
+        align-items: center;
+        padding: 0 28px;
+      }
+
+      .brand {
+        border-right: 1px solid var(--line);
+        gap: 15px;
+      }
+
+      .brand-mark {
+        width: 54px;
+        height: 54px;
+        display: grid;
+        place-items: center;
+        position: relative;
+        flex: 0 0 auto;
+        border: 1px solid rgba(155, 106, 73, 0.42);
+        background: var(--coal);
+        color: #e8d8c6;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 18px;
+        letter-spacing: 0.03em;
+      }
+
+      .brand-mark::before,
+      .brand-mark::after {
+        content: "";
+        position: absolute;
+        inset: 9px;
+        border: 1px solid rgba(232, 216, 198, 0.28);
+      }
+
+      .brand-mark::after {
+        inset: 15px;
+        border-color: rgba(155, 106, 73, 0.55);
+      }
+
+      .brand-text strong {
+        display: block;
+        font-size: 15px;
+        letter-spacing: 0;
+      }
+
+      .brand-text span {
+        display: block;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .nav {
+        justify-content: center;
+        gap: 30px;
+        color: #3f4945;
+        font-size: 13px;
+      }
+
+      .mast-cta {
+        justify-content: flex-end;
+        border-left: 1px solid var(--line);
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 44px;
+        padding: 0 18px;
+        background: var(--ink);
+        color: var(--white);
+        border: 1px solid var(--ink);
+        font-weight: 700;
+        font-size: 13px;
+      }
+
+      .button.light {
+        background: transparent;
+        color: var(--ink);
+      }
+
+      .hero {
+        display: grid;
+        min-height: calc(100vh - 76px);
+        border-bottom: 1px solid var(--line);
+      }
+
+      .hero-copy {
+        padding: clamp(48px, 7vw, 98px);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 52px;
+      }
+
+      .kicker {
+        margin: 0 0 24px;
+        color: var(--copper);
+        font-size: 12px;
+        font-weight: 800;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+      }
+
+      h1,
+      h2,
+      h3,
+      p {
+        margin-top: 0;
+      }
+
+      h1 {
+        max-width: 1040px;
+        margin-bottom: 28px;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(48px, 7.2vw, 104px);
+        line-height: 0.9;
+        letter-spacing: 0;
+        font-weight: 500;
+      }
+
+      .hero-deck {
+        max-width: 840px;
+        color: #303a36;
+        font-size: clamp(20px, 2.2vw, 28px);
+        line-height: 1.35;
+      }
+
+      .hero-action-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 34px;
+      }
+
+      .credential-line {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        border: 1px solid var(--line);
+      }
+
+      .credential {
+        min-height: 116px;
+        padding: 20px;
+        border-right: 1px solid var(--line);
+        background: rgba(255, 253, 248, 0.42);
+      }
+
+      .credential:last-child {
+        border-right: 0;
+      }
+
+      .credential strong {
+        display: block;
+        margin-bottom: 8px;
+        font-family: Georgia, serif;
+        font-size: 25px;
+        font-weight: 500;
+      }
+
+      .credential span {
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .client-band {
+        padding: 42px clamp(24px, 5vw, 72px) 46px;
+        border-bottom: 1px solid var(--line);
+        background: var(--white);
+      }
+
+      .client-band p {
+        margin-bottom: 18px;
+        color: var(--muted);
+        font-size: 12px;
+        font-weight: 800;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+      }
+
+      .client-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 14px 22px;
+        color: #28312e;
+        font-family: Georgia, serif;
+        font-size: clamp(20px, 2.2vw, 34px);
+      }
+
+      .client-list span:not(:last-child)::after {
+        content: "/";
+        color: var(--line);
+        margin-left: 22px;
+      }
+
+      .logo-grid {
+        display: grid;
+        grid-template-columns: repeat(5, minmax(118px, 1fr));
+        gap: 12px;
+      }
+
+      .logo-cell {
+        min-height: 96px;
+        aspect-ratio: 1.45;
+        display: grid;
+        place-items: center;
+        position: relative;
+        overflow: hidden;
+        background: #f8f5ee;
+        border: 1px solid #ddd1c2;
+        padding: 22px 24px;
+      }
+
+      .logo-cell::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border-top: 4px solid var(--accent, var(--copper));
+        opacity: 0.86;
+      }
+
+      .logo-cell img {
+        display: block;
+        width: auto;
+        height: auto;
+        max-width: min(128px, 78%);
+        max-height: 46px;
+        object-fit: contain;
+        position: relative;
+      }
+
+      .logo-cell.facebook img {
+        max-width: 44px;
+      }
+
+      .experience-band {
+        display: grid;
+        grid-template-columns: 0.72fr 1fr;
+        gap: 1px;
+        background: var(--line);
+        border-bottom: 1px solid var(--line);
+      }
+
+      .experience-copy,
+      .career-proof {
+        background: var(--panel);
+        padding: clamp(30px, 5vw, 62px);
+      }
+
+      .experience-copy h2 {
+        font-size: clamp(34px, 4.6vw, 66px);
+      }
+
+      .career-logos {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+        margin-bottom: 28px;
+      }
+
+      .career-logo {
+        min-height: 104px;
+        display: grid;
+        place-items: center;
+        border: 1px solid var(--line);
+        background: var(--white);
+        font-weight: 800;
+        color: var(--ink);
+      }
+
+      .career-logo.apple {
+        font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+        font-size: 30px;
+      }
+
+      .career-logo.gap {
+        background: #0c2b57;
+        color: var(--white);
+        font-family: Georgia, serif;
+        font-size: 32px;
+        letter-spacing: 0.08em;
+      }
+
+      .career-logo.walmart {
+        color: #0071ce;
+        font-size: 24px;
+      }
+
+      .career-proof p {
+        color: #34403b;
+        font-size: 18px;
+      }
+
+      .career-bio {
+        display: grid;
+        grid-template-columns: 148px minmax(0, 1fr);
+        gap: 24px;
+        align-items: center;
+        margin-bottom: 28px;
+        padding: 20px;
+        border: 1px solid var(--line);
+        background: rgba(255, 253, 248, 0.58);
+      }
+
+      .career-bio img {
+        width: 148px;
+        aspect-ratio: 1;
+        object-fit: cover;
+        object-position: center;
+      }
+
+      .career-bio strong {
+        display: block;
+        margin-bottom: 8px;
+        font-family: Georgia, serif;
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 1.05;
+      }
+
+      .career-bio span {
+        color: var(--muted);
+        font-size: 15px;
+      }
+
+      .section {
+        padding: clamp(64px, 8vw, 110px) clamp(24px, 5vw, 72px);
+        border-bottom: 1px solid var(--line);
+      }
+
+      .split {
+        display: grid;
+        grid-template-columns: minmax(280px, 0.52fr) minmax(0, 1fr);
+        gap: clamp(42px, 6vw, 88px);
+        align-items: start;
+      }
+
+      h2 {
+        margin-bottom: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(38px, 5.2vw, 76px);
+        line-height: 0.96;
+        letter-spacing: 0;
+        font-weight: 500;
+      }
+
+      .intro {
+        max-width: 720px;
+        color: #303a36;
+        font-size: clamp(20px, 2vw, 26px);
+        line-height: 1.35;
+      }
+
+      .advisory-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1px;
+        margin-top: 42px;
+        background: var(--line);
+        border: 1px solid var(--line);
+      }
+
+      .advisory-card {
+        min-height: 260px;
+        background: var(--stone);
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .advisory-card h3 {
+        margin-bottom: 18px;
+        font-family: Georgia, serif;
+        font-size: 34px;
+        line-height: 1.02;
+        font-weight: 500;
+      }
+
+      .advisory-card p {
+        color: var(--muted);
+        font-size: 16px;
+      }
+
+      .number {
+        color: var(--copper);
+        font-size: 12px;
+        font-weight: 800;
+        letter-spacing: 0.12em;
+      }
+
+      .dark {
+        background: var(--coal);
+        color: var(--white);
+      }
+
+      .dark .kicker,
+      .dark .number {
+        color: #d6a782;
+      }
+
+      .dark .intro,
+      .dark p {
+        color: #c8d0cc;
+      }
+
+      .quote-panel {
+        border-left: 1px solid rgba(255, 255, 255, 0.22);
+        padding-left: clamp(28px, 5vw, 70px);
+      }
+
+      .quote-panel blockquote {
+        margin: 0 0 30px;
+        font-family: Georgia, serif;
+        font-size: clamp(30px, 4.4vw, 62px);
+        line-height: 1.03;
+      }
+
+      .bio-facts {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1px;
+        margin-top: 52px;
+        background: rgba(255, 255, 255, 0.18);
+      }
+
+      .bio-facts div {
+        background: var(--coal);
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        padding: 22px;
+      }
+
+      .bio-facts strong {
+        display: block;
+        margin-bottom: 8px;
+        font-family: Georgia, serif;
+        font-size: 30px;
+        font-weight: 500;
+      }
+
+      .contact {
+        background: var(--white);
+      }
+
+      .contact-card {
+        display: grid;
+        grid-template-columns: minmax(0, 0.9fr) minmax(320px, 0.72fr);
+        gap: 1px;
+        background: var(--line);
+        border: 1px solid var(--line);
+      }
+
+      .contact-copy,
+      .form {
+        background: var(--white);
+        padding: clamp(28px, 5vw, 64px);
+      }
+
+      .contact-copy h2 {
+        margin-bottom: 28px;
+      }
+
+      .contact-copy p {
+        color: #303a36;
+        font-size: 21px;
+        max-width: 680px;
+      }
+
+      .question-list {
+        margin-top: 36px;
+        padding: 0;
+        list-style: none;
+        border-top: 1px solid var(--line);
+      }
+
+      .question-list li {
+        padding: 16px 0;
+        border-bottom: 1px solid var(--line);
+        color: var(--muted);
+      }
+
+      label {
+        display: block;
+        margin-bottom: 18px;
+        color: #28312e;
+        font-size: 13px;
+        font-weight: 800;
+        letter-spacing: 0.02em;
+      }
+
+      input,
+      select,
+      textarea {
+        width: 100%;
+        margin-top: 8px;
+        border: 0;
+        border-bottom: 1px solid var(--line);
+        border-radius: 0;
+        background: transparent;
+        color: var(--ink);
+        font: inherit;
+        padding: 13px 0;
+      }
+
+      textarea {
+        min-height: 126px;
+        resize: vertical;
+      }
+
+      .footer {
+        padding: 24px clamp(24px, 5vw, 72px);
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      @media (max-width: 980px) {
+        .masthead {
+          grid-template-columns: 1fr auto;
+        }
+
+        .nav {
+          display: none;
+        }
+
+        .hero {
+          grid-template-columns: 1fr;
+          min-height: auto;
+        }
+
+        .split,
+        .contact-card,
+        .experience-band {
+          grid-template-columns: 1fr;
+        }
+
+        .quote-panel {
+          border-left: 0;
+          padding-left: 0;
+        }
+      }
+
+      @media (max-width: 680px) {
+        .brand,
+        .mast-cta {
+          padding: 0 16px;
+        }
+
+        .mast-cta .button {
+          display: none;
+        }
+
+        .hero-copy {
+          padding: 42px 20px;
+        }
+
+        .credential-line,
+        .advisory-grid,
+        .bio-facts,
+        .career-logos {
+          grid-template-columns: 1fr;
+        }
+
+        .logo-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 10px;
+        }
+
+        .logo-cell {
+          min-height: 74px;
+          aspect-ratio: 1.7;
+          padding: 16px 14px;
+        }
+
+        .logo-cell img {
+          max-width: min(112px, 76%);
+          max-height: 38px;
+        }
+
+        .career-bio {
+          grid-template-columns: 104px minmax(0, 1fr);
+          gap: 16px;
+          padding: 16px;
+        }
+
+        .career-bio img {
+          width: 104px;
+        }
+
+        .credential {
+          border-right: 0;
+          border-bottom: 1px solid var(--line);
+        }
+
+        .section,
+        .client-band,
+        .footer {
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+
+        .client-list span:not(:last-child)::after {
+          margin-left: 12px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <header class="masthead">
+        <a class="brand" href="#top" aria-label="Shelina Pabani Consulting">
+          <span class="brand-mark" aria-hidden="true">SP</span>
+          <span class="brand-text">
+            <strong>Shelina Pabani Consulting</strong>
+            <span>Leadership development for serious teams</span>
+          </span>
+        </a>
+        <nav class="nav" aria-label="Primary">
+          <a href="#work">Work</a>
+          <a href="#credibility">Credibility</a>
+          <a href="#inquiry">Inquiry</a>
+        </nav>
+        <div class="mast-cta">
+          <a class="button" href="#inquiry">Start a confidential inquiry</a>
+        </div>
+      </header>
+
+      <main id="top">
+        <section class="hero">
+          <div class="hero-copy">
+            <div>
+              <p class="kicker">Executive learning / leadership development / team performance</p>
+              <h1>Leadership development for organizations where the stakes are real.</h1>
+              <p class="hero-deck">
+                Shelina Pabani designs and facilitates leadership programs, team offsites, and manager
+                development experiences for companies that need people to communicate clearly, lead through
+                change, and perform with confidence.
+              </p>
+              <div class="hero-action-row">
+                <a class="button" href="#inquiry">Discuss a leadership need</a>
+                <a class="button light" href="#credibility">Review credentials</a>
+              </div>
+            </div>
+
+            <div class="credential-line" aria-label="Executive credibility highlights">
+              <div class="credential">
+                <strong>20+ years</strong>
+                <span>Leading large-scale learning and talent organizations.</span>
+              </div>
+              <div class="credential">
+                <strong>Apple / Walmart.com / Prosper</strong>
+                <span>Senior talent development experience before consulting.</span>
+              </div>
+              <div class="credential">
+                <strong>Global audience</strong>
+                <span>Managers, executives, front-line teams, and individual contributors.</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="client-band" aria-label="Representative client experience">
+          <p>Representative clients shown on Shelina's current site</p>
+          <div class="logo-grid">
+            <div class="logo-cell" style="--accent: #607078">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1537380571227-ZA2HJ4TQGGX9ATZEN06D/vmware-logo-web-new.jpg?format=300w" alt="VMware" />
+            </div>
+            <div class="logo-cell" style="--accent: #4285f4">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1537381348301-63Y7PZ7Q9L4PRVELLP7R/google-shelina-padani-consulting.jpg?format=300w" alt="Google" />
+            </div>
+            <div class="logo-cell" style="--accent: #00a1e0">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1537381352572-JPMPWEESLTQOEBB0FGVE/1200px-Salesforce_logo.svg.png?format=300w" alt="Salesforce" />
+            </div>
+            <div class="logo-cell" style="--accent: #ed1c24">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1537381411428-CUS1OZZXELN8WZGD0I4A/1200px-Equinix.svg.png?format=300w" alt="Equinix" />
+            </div>
+            <div class="logo-cell facebook" style="--accent: #1877f2">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1593724161016-3E0HC8993UNWYMU3P1NA/f_logo_RGB-Blue_250.png?format=300w" alt="Facebook" />
+            </div>
+            <div class="logo-cell" style="--accent: #111514">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1537381156464-G9UCC7TAL8K2U1IO20QQ/Intercom_logo.png?format=300w" alt="Intercom" />
+            </div>
+            <div class="logo-cell" style="--accent: #5a8f43">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1537380573238-FQFCTROO69M56WOJ4BWQ/Prosper_Marketplace_Corporate_Logo.svg_.png?format=300w" alt="Prosper Marketplace" />
+            </div>
+            <div class="logo-cell" style="--accent: #e31b54">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1537380740109-2K08R62VO74ZMNWEKQPV/shutterfly-logo.png?format=300w" alt="Shutterfly" />
+            </div>
+            <div class="logo-cell" style="--accent: #007a5a">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1537380571143-XK34K4RPDG47SHYAN4ZD/method-logo-2.png?format=300w" alt="Method" />
+            </div>
+            <div class="logo-cell" style="--accent: #1d4f8f">
+              <img src="https://images.squarespace-cdn.com/content/v1/5ba2775cb27e39b9941bd649/1537380745753-2HTFA7XNI12X9DVWAAT9/thumb_3de316785d35ee1aed2bf897d0f2f05c897f556f_bof_company_logo_header.jpg?format=300w" alt="Bank of the West" />
+            </div>
+          </div>
+        </section>
+
+        <section class="experience-band" aria-label="Prior enterprise leadership experience">
+          <div class="experience-copy">
+            <p class="kicker">Career experience before consulting</p>
+            <h2>She has led learning from inside the companies buyers already recognize.</h2>
+          </div>
+          <div class="career-proof">
+            <div class="career-bio">
+              <img
+                src="https://static.wixstatic.com/media/55de05_52eacbd1026e495b94f44f07f87f591b~mv2.webp/v1/fill/w_900,h_1200,al_c,q_90,usm_0.66_1.00_0.01/shelina-7-scaled-e1688491904484-768x768_result.webp"
+                alt="Shelina Pabani"
+              />
+              <div>
+                <strong>Shelina Pabani</strong>
+                <span>
+                  Executive learning consultant and facilitator with senior in-house leadership development
+                  experience before building her consulting practice.
+                </span>
+              </div>
+            </div>
+            <div class="career-logos" aria-label="Apple Gap Walmart.com experience">
+              <div class="career-logo apple">Apple</div>
+              <div class="career-logo gap">GAP</div>
+              <div class="career-logo walmart">Walmart.com</div>
+            </div>
+            <p>
+              Public profiles cite Shelina as Director of Global Retail Training at Apple, supporting skill
+              development for more than 60,000 Apple employees globally; Head of Learning at Walmart eCommerce;
+              and a 13-year Gap Inc. learning leader responsible for core leadership development.
+            </p>
+            <p>
+              This is the proof the current site underplays. The rebuild should make it feel immediately obvious
+              that she can operate in enterprise environments and high-trust rooms.
+            </p>
+          </div>
+        </section>
+
+        <section id="work" class="section">
+          <div class="split">
+            <div>
+              <p class="kicker">What buyers need to understand quickly</p>
+              <h2>Not a training catalog. A partner for moments when leadership has to improve.</h2>
+            </div>
+            <div>
+              <p class="intro">
+                The current site has the raw material, but it presents Shelina as a general consultant with a
+                long list of topics. The rebuild should frame her as a high-caliber learning partner for
+                specific business moments.
+              </p>
+              <div class="advisory-grid">
+                <article class="advisory-card">
+                  <span class="number">01</span>
+                  <div>
+                    <h3>Managers stepping into harder rooms</h3>
+                    <p>
+                      Coaching, feedback, accountability, communication, and the practical leadership habits
+                      managers need when the work gets more complex.
+                    </p>
+                  </div>
+                </article>
+                <article class="advisory-card">
+                  <span class="number">02</span>
+                  <div>
+                    <h3>Teams that need alignment, not another meeting</h3>
+                    <p>
+                      Facilitated offsites and working sessions that turn friction, change, or ambiguity into
+                      shared priorities and next actions.
+                    </p>
+                  </div>
+                </article>
+                <article class="advisory-card">
+                  <span class="number">03</span>
+                  <div>
+                    <h3>Organizations building learning at scale</h3>
+                    <p>
+                      Custom programs and learning strategy for companies that need development experiences to
+                      connect to performance and business results.
+                    </p>
+                  </div>
+                </article>
+                <article class="advisory-card">
+                  <span class="number">04</span>
+                  <div>
+                    <h3>Executive groups facing change</h3>
+                    <p>
+                      A credible external facilitator who can hold the room, clarify the issue, and keep the
+                      conversation productive.
+                    </p>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="credibility" class="section dark">
+          <div class="split">
+            <div>
+              <p class="kicker">Why Shelina</p>
+              <h2>Enterprise credibility without losing the human room.</h2>
+            </div>
+            <div class="quote-panel">
+              <blockquote>
+                "Shelina was very engaging and disarming. She created safety in the room."
+              </blockquote>
+              <p>
+                The redesign should use testimonials as executive proof: not decoration, but evidence that
+                Shelina can help people engage with difficult material and leave with clearer behavior.
+              </p>
+              <div class="bio-facts">
+                <div>
+                  <strong>Apple</strong>
+                  <p>Global retail training design leadership.</p>
+                </div>
+                <div>
+                  <strong>Walmart.com</strong>
+                  <p>Head of talent development experience.</p>
+                </div>
+                <div>
+                  <strong>Prosper</strong>
+                  <p>Learning and development leadership.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="inquiry" class="section contact">
+          <div class="contact-card">
+            <div class="contact-copy">
+              <p class="kicker">Qualified inquiries</p>
+              <h2>Start with the business moment, not a generic form.</h2>
+              <p>
+                The contact page should make a corporate buyer feel like Shelina understands their world.
+                It should ask for enough context to qualify the opportunity and shape the first conversation.
+              </p>
+              <ul class="question-list">
+                <li>What audience needs support?</li>
+                <li>What changed inside the organization?</li>
+                <li>What should leaders or teams do differently after the engagement?</li>
+                <li>What timing, format, and scale are being considered?</li>
+              </ul>
+            </div>
+            <form class="form">
+              <label>
+                Name
+                <input type="text" placeholder="Your name" />
+              </label>
+              <label>
+                Work email
+                <input type="email" placeholder="you@company.com" />
+              </label>
+              <label>
+                Organization
+                <input type="text" placeholder="Company / group / team" />
+              </label>
+              <label>
+                Engagement type
+                <select>
+                  <option>Leadership or manager development</option>
+                  <option>Team offsite / executive alignment</option>
+                  <option>Custom learning program</option>
+                  <option>Change / communication support</option>
+                </select>
+              </label>
+              <label>
+                What is the leadership or team challenge?
+                <textarea placeholder="Audience, timing, goals, and what prompted the inquiry."></textarea>
+              </label>
+              <a class="button" href="mailto:shelina@shelinapabani.com">Request a consultation</a>
+            </form>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        Bay Area Design Lab concept. Directional mockup only; client logos, copy, testimonials, and form logic should
+        be confirmed before launch.
+      </footer>
+    </div>
+  </body>
+</html>

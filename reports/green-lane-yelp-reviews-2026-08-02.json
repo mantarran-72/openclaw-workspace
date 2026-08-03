@@ -1,0 +1,73 @@
+{
+  "reviews": [
+    {
+      "id": "x3azp6VO11Lq5f86CrE1dw",
+      "url": "https://www.yelp.com/biz/green-lane-tree-service-brentwood?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=x3azp6VO11Lq5f86CrE1dw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "Franklin and Green Lane Tree Service were professional. They showed up on time and finished the job quicker than expected. Fairly priced and they did a...",
+      "rating": 5.0,
+      "time_created": "2026-04-30 18:51:56",
+      "user": {
+        "id": "35QYGHsZtO3HKqQJJbA6IA",
+        "profile_url": "https://www.yelp.com/user_details?userid=35QYGHsZtO3HKqQJJbA6IA",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/kRppK3ElMow5Yz0WF7xOmQ/o.jpg",
+        "name": "Deserie M."
+      }
+    },
+    {
+      "id": "i-wwe-_3PD3d_cCha8W3Qg",
+      "url": "https://www.yelp.com/biz/green-lane-tree-service-brentwood?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=i-wwe-_3PD3d_cCha8W3Qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "Once again Mr Ramos' crew did an outstanding job. I had 3 fruit trees that needed to be pruned and because they'd already started to bud, he took special...",
+      "rating": 5.0,
+      "time_created": "2026-03-09 10:42:22",
+      "user": {
+        "id": "bMBHKUJKw7wYwN9i5ApT7w",
+        "profile_url": "https://www.yelp.com/user_details?userid=bMBHKUJKw7wYwN9i5ApT7w",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/oFLsEmmRgp17olw6PdojOw/o.jpg",
+        "name": "Barb S."
+      }
+    },
+    {
+      "id": "lRkSTb8xQImuJVNGj4VmAQ",
+      "url": "https://www.yelp.com/biz/green-lane-tree-service-brentwood?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=lRkSTb8xQImuJVNGj4VmAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "Franklin and his team were fantastic! Had them remove a tree and grind the stump...they were able to do it quickly and even helped spread the leftover mulch...",
+      "rating": 5.0,
+      "time_created": "2026-04-22 13:43:54",
+      "user": {
+        "id": "ensbG1pPtsWbI07cE7f_6A",
+        "profile_url": "https://www.yelp.com/user_details?userid=ensbG1pPtsWbI07cE7f_6A",
+        "image_url": null,
+        "name": "Garrett K."
+      }
+    },
+    {
+      "id": "DmAzBPTKmn_R4CEbCUqttw",
+      "url": "https://www.yelp.com/biz/green-lane-tree-service-brentwood?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=DmAzBPTKmn_R4CEbCUqttw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "Love Green Lane Tree Service! They have been out to trim our trees, both front and back two years in a row and I have recommended them to my friends and...",
+      "rating": 5.0,
+      "time_created": "2026-03-06 13:47:38",
+      "user": {
+        "id": "ZjduAbgIQaY3edhGcioX2Q",
+        "profile_url": "https://www.yelp.com/user_details?userid=ZjduAbgIQaY3edhGcioX2Q",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/9TqNxXRpHAIlFDnLELZG5g/o.jpg",
+        "name": "Karen B."
+      }
+    },
+    {
+      "id": "ld_1heVHx29nlvP0UwmKOA",
+      "url": "https://www.yelp.com/biz/green-lane-tree-service-brentwood?adjust_creative=p7PShdW50-LTWuY-5VCbIQ&hrid=ld_1heVHx29nlvP0UwmKOA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=p7PShdW50-LTWuY-5VCbIQ",
+      "text": "Used them several years ago - they were on time, professional, and cleaned up after themselves.  Can't ask for more!  Recommend!",
+      "rating": 5.0,
+      "time_created": "2026-02-24 12:08:22",
+      "user": {
+        "id": "9fxd6YHkWTlPttVmo4okPw",
+        "profile_url": "https://www.yelp.com/user_details?userid=9fxd6YHkWTlPttVmo4okPw",
+        "image_url": "https://s3-media0.fl.yelpcdn.com/photo/5ezVL_MSFucgXU3Oc_jcGQ/o.jpg",
+        "name": "Chris G."
+      }
+    }
+  ],
+  "total": 88,
+  "possible_languages": [
+    "en"
+  ]
+}

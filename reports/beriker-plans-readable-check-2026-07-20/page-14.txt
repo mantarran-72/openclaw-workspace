@@ -1,0 +1,537 @@
+AS NOTED
+SHEET NUMBER:
+OF
+PROJECT TITLE:
+REVISIONS:
+SHEET DESCRIPTION:
+SCALE:
+DATE:
+CODE
+REQUIREMENTS
+& GENERAL
+SPECIFICATIONS
+THESE PLANS ARE CONSIDERED PERLIMINARY AND NOT FOR CONSTRUCTION UNLESS THESE PLANS BEAR THE WET OR DIGITAL SIGNATURE OF JAMES GEORGE.  ALONG WITH THE GOVERNING AGENCY'S REVIEW SEAL OF APPROVAL AND WET SIGNATURE.
+PROJECT DESIGNER
+JAMES GEORGE
+PLANS PREPARED BY:
+7-10-2022
+W/ 22 SHEETS TOTAL
+CELL: 707 580-6704
+FAX 707 438-0377
+DESIGNS
+DESIGNS
+JAMES GEORGE
+JAMES GEORGE
+INC
+INC
+OFF: 707 425- 4156
+30 LEMON HILL TRAIL
+JAMESGEORGEDESIGNS.COM
+E-MAIL : j ame s @j ame s ge or ge de s igns . c om
+NAPA, CALIF, 94558
+JAMES GEORGE DESIGNS INC.  IS A DIVISION  OF A&J CONSULTING SERVICES INC.
+F O R : M E L I S S A B E R I K E R
+2 0 0 6 W E B B E R A V E
+VOUNTVILLE, CA. 94599
+APN # 036-053-009
+DWELLING ADDITION PLANS
+AS1
+DIVISION 0 -SPECIFICATION KEY:
+SPECIFICATION OVERVIEW NOTES AND REQUIREMENTS:
+1. Not all specif ications noted on this set of plans pertain to this project.
+2. Specif ication numbers may be missing because specif ications have been removed that do not
+pertain to this project.
+3. Even though James George Designs INC has tried to provide you with the majority of the
+needed inf ormation to make the project go as smoothly as possible it is not practical to note
+every code, ordinance, or industry standard which may apply to this project. It is the
+responsibility of the owner to pre-screen and choose a contractor that is capable, competent,
+and understands the owners expectations for a successf ul project. It is the builder /
+contractor’s responsibility to ensure the project is built to the highest standards f ollowing all
+codes, laws, ordinances, industry standards, and manuf acturers specif ications.
+4. The builder shall obtain and have access to all the codes and ordinances listed on the cover
+sheet and pertaining to this project.
+5. Specif ications provided on this set of plans are intended to provide you with the majority of
+code and industry standards that pertain to this project only, not all the requirements are
+included.
+6. Crossed out noted indicate Spec’s that do not pertain to this project
+Example:
+ 
+ 
+ 
+I am a crossed out spec, I do not pertain to this project.
+DIVISION 1 – GENERAL REQUIREMENTS:
+01100 [RFI] REQUEST FOR INFORMATION:
+When the builder has a question, comment or concern regarding this project the builder shall
+submit the said item to James George Designs and the owner in writing Via E-mail, or Fax in a
+timely manner f ollowing the discovery of the comment question or concern. James George designs
+will then address the item in a timely manner and get back to the builder and owners with a
+clarif ication.
+01150 [CO] CHANGE ORDERS:
+When the builder requests to deviate from the plans, substitute a different product, make a chance
+to the plans, or propose a different layout for construction, the builder shall submit the request to
+James George Designs and the owner, in writing Via E-mail, or Fax in a timely manner f ollowing
+the discovery of the item the builder would like to change. James George designs will then address
+the item in a timely manner with the owner and get back to the builder with an answer.
+01200 FINISH MATERIAL SUBMITTALS:
+The builder shall consult with the owners and submit samples to the owners for approval on all
+f inish materials whether the materials are specif ied on the plans or not. Finish materials include
+but are not limited to f looring, concrete slab f inish, Plumbing f ixture f inish & color, door
+hardware, Faucet hardware, Electrical plug and switch covers, Faucet f inish, Paint colors, etc.
+and door hardware f inish shall remain consistent thru ought the project unless the owner requests
+otherwise. Unless specif ically requested by the owners the builder and the owners shall coordinate
+with each other to select the f inish materials typical.
+012500 ALLOWANCES:
+All allowances shall be arranged between the owner and the builder and separate from this set of
+plans. The builder shall consult with the owners and submit samples to the owners for approval on
+all project allowances prior to construction to ensure the allowances are set high enough to
+provide the level of quality the owner’s desire. If all the money allocated in a particular allowance
+is not spent the money left over and not spent shall be available to the owners for items under
+other allowances or that money shall be reduced from the overall price of construction.
+01300 Insurance:
+Contractor shall maintain such insurance as will protect it from clams under workers
+compensation acts and from claims from damages because of bodily injury, including death, or
+injury to property which may arise from and during the operation of the contract.  Insurance
+coverage shall include provision or endorsement naming the owner, the designer and his
+consultants, and each of there of f icers, employees and agents, each as additional insured in
+regards to liability arising out of the perf ormance of any work under the contract.  A certif icate of
+such insurance shall be f urnished to the owner prior to the commencement of any work
+DIVISION 2 – SITE WORK:
+Refer to the site plan sheet for site requirements typical:
+DIVISION 3 – CONCRETE
+06010 CONCRETE NON-STRUCTURAL REQUIREMENTS:
+1. 
+Finishes: All concrete f inishes shall be f irst submitted and approved by the owners prior to
+construction. Said f inished include but are not limited to color & texture at all concrete slabs and any
+exposed vertical concrete walls or curbs.
+2. 
+Concrete Slab Slope: all exterior concrete slabs shall be sloped min ¼” per f oot as reqd to
+direct drainage in an approved manor and prevent any puddles of water. Puddles of water on the
+concrete slab are subject to the owner’s rejection of the f inal product. No bird baths please.
+3. 
+Slump: Slump of concrete placed in removable f orms shall not exceed 6”
+4. 
+Cold weather requirements: Any concrete to be placed during f reezing or near f reezing weather
+shall comply with the requirements of ACI 318, Section 5.12.
+a. 
+When mixing concrete during cold weather the mix shall have a temperature of not less than
+50˚F but not more than 90˚F. The concrete shall be maintained at a temperature of at least 50˚F for
+not less than 72 hours af ter placing. Special precautions shall be taken for the protection of transit
+mixed concrete to maintain a temperature of at least 50˚F.
+DIVISION 5 – METALS
+05020 METAL COATINGS
+1. 
+FASTENERS IN PRESERVATIVE-TREATED AND FIRE RETARDANT TREATED
+WOOD: Fasteners, including nuts and washers, for preservative-treated wood shall be of hot-dipped,
+zinc-coated galvanized steel, stainless steel, silicon bronze or copper. Coating types and weights for
+connectors in contact with preservative-treated wood shall be in accordance with the connector
+manuf acturer’s recommendations. In the absence of manuf acturer’s recommendations, a minimum of
+ASTM A 653 type G185 zinc-coated galvanized steel, or equivalent, shall be used.
+A. One-half -inch-diameter or greater steel bolts
+B. Fasteners other than nails and timber rivets shall be permitted to be of mechanically
+deposited zinc-coated steel with coating weights in accordance with ASTM B 695,
+class 55 minimum.
+C. Plain carbon steel f asteners in SBX/DOT and zinc borate preservative-treated wood in
+an interior, dry environment shall be permitted.
+2. 
+FASTENING SIDING: Weather boarding and wall covering shall be securely
+f astened with, Fasteners that shall be of hot-dipped zinc-coated galvanized steel,
+mechanically deposited zinc-coated steel, aluminum, stainless, silicon bronze or copper, or as
+required by the approved manuf acturer’s installation instructions.
+3. 
+All Simpson f asteners exposed to pressure treated douglass furr PTDF, fire treated
+lumber, and or weather shall be rated “ZMax / HDG” or stainless steel, and all f asteners
+shall meet the specif ications of ASTM A 153 or Simpson SDS screws w/ a double barrier
+coating.
+4. 
+These notes are the copy write property of James George and shall not be copied or
+located on any set of plans that does not bear the title block of James George Designs or
+George construction and design. If these notes are f ound to be copied or located in any area
+other than that labeled above please notif y James George @ [707] 580-6704
+DIVISION 6 – WOOD AND PLASTICS
+06010 ROUGH CARPENTRY NON-STRUCTURAL:
+1. 
+1, All f oundation plates or sills and sleepers on a concrete or masonry slab, which is in
+direct contact with the earth and sills which rest on concrete or masonry shall be pressure
+treated Douglas fur or f oundation grade redwood, all marked or branded by an approved
+agency.
+2. 
+ 
+No untreated wood, except preservative treated PTDF or f oundation grade redwood shall
+be nearer than 8” to any earth unless separated by concrete at least 3” in thickness with an
+impervious membrane installed between the earth and concrete.
+3. 
+These notes are the copy write property of James George and shall not be copied or
+located on any set of plans that does not bear the title block of James George Designs or
+George construction and design. If these notes are f ound to be copied or located in any area
+other than that labeled above please notif y James George @ [707] 580-6704
+4. 
+Wall f raming shall be plumb to 1/8” in 8 feet straight and true within 1/8” in 16 feet
+typical.
+5. 
+Wood f loors shall be level to within 1/8” in 48” and 1/4” in 96”
+6. 
+All plywood (sheathing) sub f loors including stairs treads and risers shall be glued to the
+f raming members & nailed per the structural plans. Hangers shall also be glued to the joists
+as needed to prevent any squeaks in the floor.
+7. 
+Raised Platf orms at f orced air unit (FAU.) shall receive, minimum 3/4” plywood f loor and
+shall be airtight. Typical when not located in attic.
+06020 FIRE BLOCKING & BLOCKING FOR ACCESSORIES:
+1 Fire Blocking: Fire blocking and draft stopping shall be installed to cut off all concealed draft
+openings (both vertical and horizontal) and shall form an effective barrier between f loors,
+between a top story and a roof or attic space, and shall subdivide sof f its, drop or dome ceiling
+and f loor ceiling assemblies, and shall be used in specif ic locations, but not limited to the
+f ollowing:
+a. In concealed spaces of stud walls and partitions, including f urred spaces, at the
+ceiling and f loor levels and at 10’ intervals both vertical and horizontal.
+b. At all interconnects between concealed vertical and horizontal spaces such as
+occur at sof f its, drop ceiling and cove ceiling.
+c. In concealed spaces between stair stringers at top and bottom of runs and between
+studs along and in line with the run of stairs if the walls under the stairs are
+unf inished.
+d. In openings around vents, pipes, ducts, chimneys, f ireplaces and similar openings
+which afford a passage for fire at ceilings and f loor levels, with non-combustible
+materials.
+e. At openings between attic spaces and chimney chases for f actory built chimneys.
+f. In the wood f rame f loor construction containing concealed space where there is
+unable space above and / or below the concealed space. Such does not exceed
+1,000 sq. ft. Draf tstoping should divide the concealed space into approx equal
+areas. 
+ 
+ 
+2. Fire block construction, except as provided in item for above, fire blocking shall consist of
+2” nominal lumber or two thicknesses of 1” nominal material with broken lap joints.  Fire
+blocks may also be of gypsum board, cement board, batts of mineral fiber, glass f iber or
+other approved non-combustible materials securely f astened in place.  Loose fill insulation
+material shall not be used as fire block unless specif ically fire tested.
+3. ACCESSORY BLOCKING: Provide minimum 2 x 6 solid blocking for medicine cabinets
+at 72” from f inish floor, toilet paper holders at 24” from f inish floor, towel bars at 52”
+from f inish floor, also at extended counters, wardrobe door heads and jambs, at end of all
+cabinets and other similar f inish applied items, and at stair handrail brackets, ends and
+intermediates at 34” to maximum 36” above f inish nose of treads to top of handrail, unless
+noted otherwise “U.N.O.” Verify all heights with owners.
+06030 WOOD EXTERIOR WALL ~ MATERIALS:
+1. 
+1. WATER-RESISTIVE BARRIER: A minimum of one layer of No. 15 asphalt felt,
+complying with ASTM D 226 of Type 1 felt or other approved materials, shall be attached to the
+studs or sheathing, with f lashing in such a manner as to provide a continuous water-resistive
+barrier behind the exterior wall veneer. Each roll shall be installed horizontally and the upper
+layer shall lap min 2” over the lower layer. Each joint shall be lapped min 6”. The paper shall be
+continuous from the top of the f oundation concrete to the top of the wall @ the appendages.
+2. 
+HARDBOARD SIDING: Hardboard siding shall conf orm to the requirements of AHA
+A135.6 and, where used structurally, shall be so identif ied by the label of a approved agency. It
+shall also be installed per the mfg’s requirements.
+3. 
+FASTENING: Weather boarding and wall covering shall be securely f astened with,
+Fasteners that shall be of hot-dipped zinc-coated galvanized steel, mechanically deposited zinc-
+coated steel, aluminum, stainless, silicon bronze or copper, or as required by the approved
+manuf acturer’s installation instructions.
+4. 
+Coating weights for hot-dipped zinc-coated f asteners shall be in accordance with ASTM A
+153.  The coating weights for mechanically deposited zinc-coated f asteners shall be in accordance
+with ASTM B 695, Class 55 minimum.
+5. 
+Clearance to grade: Clearance between wood siding and earth on the exterior of a
+building shall not be less than 6 inches. Structural un-treated ply sheathing / backing shall be min
+8” above f inish grade
+6. 
+HARDWOOD, WOOD, AND PLYWOOD SIDING: Hardwood and decorative plywood
+shall be manuf actured and identif ied as required in HPVA HP-1.
+DIVISION 7 – THERMAL AND MOISTURE PROTECTION
+07050 THERMAL PROTECTION:
+1. EXTERIOR INSULATION AND FINISH SYSTEMS: Insulation shall comply with the current
+building code & current energy commission energy conservation standards.
+2. T-24 REPORT: Ref er to title 24 energy compliance sheets for requirements. All energy items
+shown on the plans must be in agreement with the inf ormation shown on the approved completed
+(CF-1R) form as prepared by others.  The more stringent shall govern.
+3. WALL INSULATION: Minimum at walls insulation shall be installed in all exterior walls, walls
+between the living space and unheated areas (garage, storage room, etc.) between exterior jambs
+and f raming knee walls adjacent to attic, and walls enclosing mechanical equipment. See current
+approved T-24 report.
+4. UNDER FLOOR INSULATION: Minimum @ under f loor insulation shall be installed between
+joist bays (leave un-obstructive space for required natural ventilation at the vent openings) and
+between f loor joist adjacent to unheated areas.
+a. See current approved T-24 Report for the minimum R-value.
+b. Under f loor insulation shall be inspected and protected from moisture / rain during construction.
+Plywood f loor sheathing is not acceptable as insulation protection from rain unless it is tarpped over
+during rain, seal coated, or enclosed with-in a weather tight building.
+c. Provide approved netting as required to support the insulation tight against the f loor plywood
+sheathing permanently.
+5. ATTIC SPACE INSULATION: Minimum @ attic space insulation shall be installed between
+ceiling joist and or truss bottom chords (leave un-obstructive space for required natural
+ventilation via plywood baffles where eve blocks contain vent holes) and between f loor joist
+adjacent to unheated areas.
+a. When installing attic insulation ensure that eave vents are clear of insulation, that slippage will not
+occur which may reduce or eliminate required vent area, that minimum R-level requirements will not
+be reduced by settlement, and that insulation on a sloping ceiling will not slip.
+b. See current approved T-24 Report for the minimum R-value or the building sections.
+c. Non rigid insulation shall have a clear airspace between the insulation and the radiant barrier on the
+roof ply sheathing of not less than 2” and not less than a clear 1” airspace between the insulation and
+the roof ply sheathing W/O a radiant barrier.
+d. Rigid board insulation between raf ters shall have a min R- Value per approved T-24 report (see
+manuf acturer for minimum thickness & adjust f raming size as required).  Rigid board insulation shall
+fill each raf ter bay completely and solid with no air space and any voids shall be f illed with spray-in
+f oam.
+6. Insulation to be a full thickness f riction fit f iberglass batts UON.
+7. CERTIFICATE OF INSTALLATION: Contractor or the insulation installer shall provide a
+completed “ certif icate of installation” and posted in the building in a prominent / conspicuous
+location. 
+07100 MOISTURE PROTECTION:
+1. 
+WATERPROOFING: All exterior materials, construction and minimum quality shall
+conf orm to the requirements of the current building code, applicable edition, state, local, fire codes
+governing the site of the work.
+2. 
+Unless noted and detailed on drawings, f lash door, window and wall louvered openings with
+“moist stop” f lashing system by Fortif iber Corporation, or equal.  Install per manuf acturer’s
+instructions.  Caulk f lashing with material approved and tested by f lashing manuf acturer.
+3. 
+Flashing on all non-vertical stucco surf aces and beneath copings:  Provide self -sealing,
+self -healing, fully adhering, composite f lexible f lashing consisting of 36 mil thick pliable and highly
+adhesive rubberized asphalt compound bounded completely and integrally to 4 mil thick, high
+density, two piles of cross laminated polyethylene film to produce an overall 40 mil thickness,
+protected from contamination from dust or dirt by a silicone – coated release sheet, to be removed
+immediately bef ore installation.  Flashing shall be Parma-Barrier wall membrane by W.R. Grade &
+Co. or Owner approved equal.  Complete with surf ace conditioners and rubberized asphalt-based
+termination mastic as required for proper watertight installation. Membrane need not be applied
+over f oam trim unless shown otherwise on plans.  Do not allow f lashing to be exposed to ultra
+violet rays for the duration stated by manuf acturer.
+4. 
+All weather-exposed surf aces shall have weather – resistive barrier to protect the interior
+wall covering.  Such barrier shall be equal to that provided for in current building code standard
+for Kraft waterproof building paper or asphalt-saturated rag felt.  Building paper and felt shall be
+free from holes and breaks other than those created by f asteners and construction system due to
+attaching of the building paper, and shall be applied over sheathing of all exterior walls, such felt
+or paper shall be applied horizontally with upper layer lapped over lower layer not less than 2”
+where vertical joints occur, felt or paper shall be lapped not less than 6”.  Exterior color shall be
+as selected by the Owner and/or Designer, workmanship and surf ace f inish to be acceptable to the
+owner and the Designer.
+5. 
+Membrane water-resistive barrier (waterproof ing) shall be installed to prepared surf aces by
+skilled and qualif ied mechanics and shall conf orm to the current building code, applicable edition
+and state and local governing codes.
+6. 
+Contractor shall fully inspect the entire installation prior to calling for a final inspection.
+Protect waterproofing membrane prior to any backfill operation, repair any damage and re-inspect
+7. 
+SIDEWALL FLASHING: Base flashing against a vertical sidewall shall be continuous or
+step flashing and shall be minimum of 4 inches in height and 4 inches in width and shall direct
+water away from the vertical sidewall onto the roof and/or into the gutter.  Where siding is provided
+on the vertical sidewall, the vertical leg of the flashing shall be continuous under the siding.  Where
+anchored masonry veneer is provided on the vertical sidewall, the base flashing shall be provided
+w/ couther flashing.
+8. 
+DRIP EDGE: A drip edge shall be provided at eaves and gables of shingles roof s.  Adjacent
+pieces of drip edge shall be overlapped a minimum of 2 inches. Drip edge shall extend a minimum
+of 0.25 inch below the roof sheathing and extend up the roof deck a minimum of 2 inches. Drip edge
+shall be mechanically f astened to the roof deck at a minimum of 12 inches o.c. with f asteners.
+Underlayment shall be installed over the drip edge along eaves and under the underlayment on
+gables.  Unless specif ied differently by the shingle manuf acturer, shingles are permitted to be f lush
+with the drip edge.
+07600 ATTIC SPACE NATURAL VENTILATION:
+1. Vent openings into the attic: Enclosed attics and enclosed raf ter spaces f ormed where
+ceilings are applied directly to the underside of roof f raming members shall have cross ventilation
+for each separate space by ventilating openings protected against the entrance of rain and snow.
+Ventilation openings shall have a least dimension of 1/16 inch minimum and a max dimension of
+1/4”. Ventilation openings having a least dimension larger than 1/4 inch shall be provided with a
+corrosion-resistant wire cloth screening, hardware cloth, or similar material having a least
+dimension of 1/16” min. and a 1/4” max opening.  Blocking and bridging shall be arranged so as
+not to interf ere with the movement of air.
+2. Airspace: A minimum of 1 inch of airspace shall be provided between the insulation and
+the roof sheathing and 2” min between the insulation and a radiant barrier.
+3. The Minimum Vent Area: The minimum net free ventilation area shall be 1/150 of the
+area of the vented space.
+Exception: The minimum net free ventilation area shall be 1/300 of the vented space provided
+one or more of the f ollowing conditions are met:
+a. 
+In climate zone 14 and 16, a Class I or II vapor retarder is installed on the warm-in-
+winter side of the ceiling.
+b. 
+At least 40 % and not more than 50 % of the required ventilating area is provided by
+ventilators located in the upper portion of the attic or raf ter space.  Upper ventilators shall
+be located no more than 3 feet below the ridge or highest point of the space, measured
+vertically, with the balance of the required ventilation provided by eave or cornice vents.
+Where the location of wall or roof f raming members conf lict with the installation of upper
+ventilators, installation more then 3 feet below the ridge or highest point of the space shall
+be permitted.
+07700 WEATHER PROTECTION / FLASHING:
+1. FLASHING: Flashing shall be installed in such a manner so as to prevent moisture
+entering the wall and roof through joints in copings, through moisture permeable materials and at
+intersections with parapet walls and other penetrations through the roof plane.
+2. LOCATION: Flashing shall be installed at wall and roof intersections, at gutters, wherever
+there is a change in roof slope or direction and around roof openings.  Where f lashing is of metal,
+the metal shall be corrosion resistant with a thickness of not less than 0.019 inch  (No. 26
+Galvanized sheet).
+3.  FLASHING: Flashing shall be installed in such a manner so as to prevent moisture from
+entering the wall or to redirect it to the exterior.  Flashing shall be installed at the perimeters of
+exterior door and window assemblies, penetrations and terminations of exterior wall assemblies,
+exterior wall intersections wit roof s, chimneys, porches, decks, balconies and similar projections
+and at built-in gutters and similar locations where moisture could enter the wall.  Flashing with
+projecting f langes shall be installed on both sides and the ends of copings, under sills and
+continuously above projecting trim.
+17650 UNDER-FLOOR NATURAL VENTILATION
+The minimum net area of ventilation openings shall not be less than 1 square f oot for
+each 150 square feet of crawl-space area. One ventilation opening shall be with-in 3’ of
+each corner of the building. Ventilation openings shall be covered for their height and
+width with any of the f ollowing materials, provided that the least dimension of the
+covering shall not exceed 1/4 inch.
+A. Corrosion-resistant wire mesh, with the least dimension not exceeding 1/8 inch.
+B. 2) The total area of ventilation openings is permitted be reduced to 1/1,500 of the
+under-f loor area where the ground surf ace is treated with an approved vapor
+retarder material and the required openings are placed so as to provide cross
+ventilation of the space.  The installation of operable louvers shall not be
+prohibited.
+06040 PRESSURE TREATED / PRESERVATIVE-TREATED WOOD:
+1. PRESERVATIVE-TREATED WOOD: Preservative-treated wood shall conf orm to the requirements
+of the applicable AWPA Standard U1 and M4 for the species, product, preservative and end use.
+Preservatives shall be listed in section 4 of AWPA U1. Lumber and plywood used in wood f oundation
+system.
+2. IDENTIFICATION: Preservative treated wood shall bear the quality mark of an inspection agency
+that maintains continuing supervision, testing and inspection over the quality of the preservative-treated
+wood. Inspection agencies for Preservative-treated wood shall be listed by an accreditation body that
+complies with the requirements of the American Lumber Standards Treated Wood Program, or
+equivalent.  The quality mark shall be on a stamp or label affixed to the preservative-treated wood, and
+shall include the f ollowing inf ormation: Identif ication of treating manuf acturer, Type of preservative
+used, Minimum preservative retention, End use for which the product is treated, AWPA standard to which
+the product, and the Identity of the accredited inspection agency
+3. FASTENERS IN PRESERVATIVE-TREATED AND FIRE RETARDANT TREATED WOOD:
+Fasteners for preservative-treated and f ire-retardant-treated wood shall be of hot dipped zinc-coated
+galvanized steel, stainless steel, silicon bronze or copper.  The coating weights for zinc-coated
+f asteners shall be in 
+accordance with ASTM A 653 type G185.
+A. Exception 1/2”ø or greater steel bolts & f asteners other than nails and timber rivite shall
+be permitted to be mechanically deposited zinc coated steel with coating weights in
+accordance with ASTM B 695 Class 55  min.
+4. FIELD TREATMENT: Field-cut ends, notches, and drilled holes of preservative- treated wood shall
+be treated in the f ield with copper Naphthenate in accordance with AWAP M4. The concentration shall
+contain min 2% copper metal by repeated brushing, dipping, or soaking until the wood absorbs no more
+preservative.
+5. JOINTS, GIRDERS, & SUBFLOOR: Where wood joints or the bottom of a wood structural f loor
+without joists are closer than 18 inches, or wood girders are closer than 12 inches to the exposed ground
+in crawl spaces or unexcavated areas located within the perimeter of the building f oundation, the f loor
+assembly (including posts, girders, joists and sub-f loor) shall be of naturally durable or preservative-
+treated wood.
+6. WOOD SUPPORTED BY EXTERIOR FOUNDATION WALLS: Wood-f raming members shall be
+not less than 8 inches from exposed earth or they shall be of naturally durable or preservative-treated
+wood.
+7. POSTS OR COLUMNS: Post or columns supporting permanent structures and supported by a
+concrete or masonry slab or f ooting that is in direct contact with the earth shall be of naturally durable
+or preservative-treated wood.
+Exceptions:
+a. Post or columns that are either exposed to the weather or located in basements or cellars,
+supported by concrete piers or metal pedestals projected at least 1 inch above the slab or deck and
+6 inches above exposed earth.
+b. Post or columns in enclosed crawl spaces or unexcavated areas located within the periphery of
+the building, supported by a concrete pier or metal pedestal at a height greater than 8 inches from
+exposed ground, and the separated there from by an impervious moisture barrier.
+8. LAMINATED TIMBERS: The portions of glued-laminated timbers that form the structural supports
+of a building or other structure and are exposed to weather and not fully protected from moisture by a
+roof , eave, or similar covering shall be pressure treated with preservative or be manuf actured from
+naturally durable or preservative-treated-wood.
+DIVISION 8 – DOORS AND WINDOWS, GLASS & GLAZING
+08050 DOORS & FRAME:
+1. Materials, construction and minimum quality shall comply with Current Building Code
+standards, and governing agencies requirements.
+2. See f loor plan for size and type.  Finish, panel style, and surf ace color shall be approved by
+Owners prior to purchase and installation.
+3. All doors with glazing shall be provided with tempered glass, and where the interior space is
+conditioned the glass shall meet the SHGC & U-f actor requirements as labeled on the T24
+energy f orms.
+4. Doors stops shall be provided behind all swinging doors.
+5. All f ront entry doors shall be 1 3/4” solid core by width shown on plans or as otherwise
+shown on drawings and shall comply with ANSI/NWWDA I.S.1. And A.W.I. Standards.
+6. All interior doors shall be 1 3/8” thick by width shown on plans and shall comply with ANSI/
+NWWDA I.S.1. And A.W.1. Standards unless approved by owners.
+7. All exterior doors shall be weather-stripped and shall be provided with f lashing to ensure
+water does not leak into the residence.
+8. Doors shall be installed per the MFG’s requirements.
+9. Automatic Garage Door Openers: if provided, shall be listed and labeled with UL 325. See
+Health and Saf ety Code Section 19890 and 19891 for additional provisions for residential
+garage door openers. Automatic garage door openers shall have a battery backup that shall
+operate in a manner so that the automatic garage door opener is operational without
+interruption during an electrical outage
+08150 WINDOWS:
+1. Materials, construction and minimum quality shall comply with Current Building Code
+standards, and governing agencies requirements.
+2. See f loor plan for size and type.  Finish and surf ace color to be approved by the Owner.
+3. All windows shall be certif ied by the Calif ornia Energy Commission w/ mfg’s sticker
+displayed @ rough f rame inspection w/ mfg’s S.H.G.C. & U-Factor shown to comply w/
+the T-24 requirements.
+4. INSTALLATION: All exterior windows shall be installed per the MFG’s warranty
+requirements. Provide adhesive f lashing installed around the window per plans & MFG’s
+spec’s as required to ensure no water does not leak into the wall behind the siding.
+5. EGRESS WINDOWS: shall have a minimum net clear operable area of 5.7 square
+f eet. The minimum net clear opening height dimension shall be 24 inches. The minimum
+net clear open able width dimension shall be 20 inches. When windows are provided as a
+means of escape of rescue, they shall have a f inished sill height not more than 44 inches
+above the floor.
+6. SKYLIGHTS: All skylights within building to be double-glazed.  All glass in skylights
+shall be non-ref lective, fully tempered saf ety glass or wire glass.
+7. TESTING and LABELING: Unit skylights and tubular day lighting devices shall be
+tested by an approved independent laboratory, and bear a label identif ying manuf acturer,
+perf ormance grade rating and approved inspection agency to indicate compliance with
+code requirements.
+08200 GLASS AND GLAZING:
+1. GLAZING REPLACEMENT: The installation of replacement glass shall be as required for new
+installation.
+2. All manuf actured windows and sliding glass doors shall meet the air inf iltration standards of the
+current American National Standard Institute and ASTM E283-73 with a pressure dif f erential of
+minimum 1.57 lbs. per square f oot and shall be certif ied and labeled as required by governing
+agencies.
+3. Required tinted glazing shall be permanently tinted or permanently surf ace coated by the
+manuf acturer of the glazing material and shall provide a maximum tinting coef f icient of 0.75.
+4. IDENTIFICATION: Each pane shall bear the manuf acture’s mark designating the type and
+thickness of the glass or glazing material.
+A. Each pane of tempered glass shall be permanently identif ied by the manuf acturer.  The
+identif ication mark shall be acid etched, sand blasted, ceramic fired, laser etched, embossed or of a
+type that, once applied cannot be removed without being destroyed.
+5. SAFETY GLAZING REQUIRED IN HAZARDOUS LOCATIONS: The f ollowing shall be
+considered specif ic hazardous locations requiring saf ety glazing materials:
+A. Glazing in swinging doors except jalousies.
+B. Glazing in f ixed and sliding panels of sliding door assemblies and panels in sliding and bi-f old
+closet door assemblies.
+C. Glazing in storm doors
+D. Glazing in unf ramed swinging doors
+E. Glazing in doors, windows, and enclosures for bathtubs, showers, hot tubs, whirlpool tubs,
+saunas, & steam rooms, Glazing in any portion of a building wall enclosing these compartments or
+with-in 60” horizontally of these compartments where the bottom exposed edge of the glazing is
+less than 60 inches above a standing surf ace shall be tempered.
+F. Glazing in an individual f ixed or operable panel adjacent to a door where the nearest exposed
+edge of the glazing is within a 24 inch arch of either vertical edge of the door in a closed portion
+and where the bottom exposed edge of the glazing is less than 60 inches above the walking surf ace.
+G. Glazing within a 24 inch arc or either vertical edge of the door in a closed position and where the
+bottom exposed edge of the glazing is less than 60 inches above the walking surf ace.
+i. EXCEPTIONS: Panels where there is an intervening wall or other permanent barrier
+between the door and glazing.
+ii. Where access through the door is to a closet or storage area 3 feet or less in depth.
+iii. Glazing in walls perpendicular to the plane of the door in the closed position, other than the
+wall towards which the door swings when opened, in one and two f amily dwellings or within
+dwelling units in Group R-2
+H. Glazing w/ an exposed bottom edge less than 18 inches above the floor.
+I. Glazing w/ the exposed area of an individual pane greater than 9 square f eet.
+J. Glazing in guards and railings, including structural baluster panels and nonstructural in fill
+panels, regardless of area or height above a walking surf ace
+K. Glazing in walls and f ences enclosing indoor and outdoor swimming pools, hot tubs and spas
+where all of the f ollowing conditions are present
+L. The bottom edge of the glazing on the pool or spa side is less than 60 inches above a walking
+surf ace on the pool or spa side of the glazing.
+M. The glazing is within 60 inches horizontally of the water’s edge of a swimming pool or spa.
+N. Glazing adjacent to stairways, landings and ramps within 36 inches horizontally of a walking
+surf ace; when the exposed surf ace of the glass is less than 60 inches above the plane of the
+adjacent walking surf ace.
+O. Glazing adjacent to stairways within 60 inches horizontally of the bottom tread of a stairway in
+any direction when the exposed surf ace of the glass is less than 60 inches above the nose of the
+tread.
+6. SAFETY GLAZING EXCEPTIONS: Mirrors and other glass panels mounted or hung on a surf ace
+that provides a continuous backing support do not need to be saf ety glazed.
+7. FENESTRATION: Installed f enestration products shall have an area weighted average U-f actor
+and SHGC no greater than the applicable value in Table 150.1-A.
+Exception #1: For each dwelling unit, up to 3 square feet of new glazing area installed indoors and
+up to 3 square feet of new tubular skylights area with dual-pane diffuser shall not be required to meet
+the U-f actor and SHGC.
+Exception #2:  For each dwelling unit up to 16 square feet of new skylight area with a maximum U-
+f actor of 0.55 and a maximum SHGC of 0.30 shall not be required to meet the total f enestration area
+and west-f acing f enestration area requirements.
+8. Facing f enestration area includes skylights tilted in any direction when the pitch is less than 1:12
+AS4

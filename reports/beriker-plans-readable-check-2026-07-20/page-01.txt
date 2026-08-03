@@ -1,0 +1,431 @@
+AS NOTED
+SHEET NUMBER:
+OF
+PROJECT TITLE:
+REVISIONS:
+SHEET DESCRIPTION:
+SCALE:
+DATE:
+COVER SHEET
+THESE PLANS ARE CONSIDERED PERLIMINARY AND NOT FOR CONSTRUCTION UNLESS THESE PLANS BEAR THE WET OR DIGITAL SIGNATURE OF JAMES GEORGE.  ALONG WITH THE GOVERNING AGENCY'S REVIEW SEAL OF APPROVAL AND WET SIGNATURE.
+PROJECT DESIGNER
+JAMES GEORGE
+PLANS PREPARED BY:
+7-10-2022
+W/ 22 SHEETS TOTAL
+CELL: 707 580-6704
+FAX 707 438-0377
+DESIGNS
+DESIGNS
+JAMES GEORGE
+JAMES GEORGE
+INC
+INC
+OFF: 707 425- 4156
+30 LEMON HILL TRAIL
+JAMESGEORGEDESIGNS.COM
+E-MAIL : j ame s @j ame s ge or ge de s igns . c om
+NAPA, CALIF, 94558
+JAMES GEORGE DESIGNS INC.  IS A DIVISION  OF A&J CONSULTING SERVICES INC.
+F O R : M E L I S S A B E R I K E R
+2 0 0 6 W E B B E R A V E
+VOUNTVILLE, CA. 94599
+APN # 036-053-009
+DWELLING ADDITION PLANS
+PROJECT GENERAL NOTES:
+BUILDING DEPARTMENT REQUIREMENTS:
+PROJECT ABBREVIATIONS:
+INDEX OF SHEETS:
+A1
+A2
+PROJECT INFORMATION:
+PROJECT DESCRIPTION:
+PROJECT DATA:
+PROJECT CONSULTANTS:
+PROJECT OWNER'S CONTACT INFO:
+PROJECT LOCATION INFO:
+AS1
+COV1
+CODE REQUIREMENTS & GENERAL SPEC'S
+CODE REQUIREMENTS & GENERAL SPEC'S
+CODE REQUIREMENTS & GENERAL SPEC'S
+COVER  SHEET
+C1
+AS2
+SITE & EROSION CONTROL PLAN
+EXTERIOR ELEVATIONS
+AS3
+A3
+A4
+T24-1
+TITLE 24 ENERGY FORMS
+CG-1
+CAL GREEN CHECK LIST
+T24-2
+TITLE 24 ENERGY FORMS
+ELECTRICAL PLAN
+CG-2
+CAL GREEN CHECK LIST
+FOUNDATION PLAN
+D1
+DETAILS NON-STRUCTURAL
+A5
+A6
+A7
+EXTERIOR ELEVATIONS
+ROOF PLAN
+CODE REQUIREMENTS & GENERAL SPEC'S
+AS4
+BUILDING SECTIONS
+D2
+DETAILS FRAMING
+CF-1
+CONVENTIONAL FRAMING NOTES & SCHEDULES
+T24-3
+TITLE 24 ENERGY FORMS
+FLOOR PLANS NEW & EXISTING
+PROJECT AREA TABULATION:
+A5.1
+FOUNDATION DETAILS
+MR-1
+MANDATORY MEASURES
+PLAN CHECKER:
+1
+OWNER REVISION
+11-30-22
+NO DEFERRED SUBMITTAL ITEMS ARE REQUIRED FOR THIS PROJECT
+COV-1
+COV-1
+CODES THAT SHALL BE ENFORCED ON THIS PROJECT:
+THIS INCLUDES THE CODES LISTED BELOW AS AMENDED BY THE STATE OF  CALIFORNIA  AND LOCAL JURISDICTIONS.
+LOCAL ADOPTED ORDINANCES BY THE LOCAL CITY OR COUNTY JURISDICTIONS. AND POSSIBLE FEMA FLOOD REQUIREMENTS
+SHALL ALSO BE APPLICABLE TO THIS PROJECT.
+SHEET #
+SHEET #
+SHEET DESCRIPTION
+SHEET DESCRIPTION
+BUILDING OCCUPANCY
+BUILDING CONSTRUCTION TYPE
+STRUCTURAL DESIGN TYPE
+FIRE SPRINKLERS EXIST
+CLIMATE ZONE
+NO OF STORIES
+V-B
+T-24 ENERGY APPROACH
+A.B.: Anchor Bolts
+ABW: Alternate Braced Wall
+AFCI: Arc Fault Circuit Interrupter
+A.F.F.: Above Finish Floor
+ALT: Alternate
+BLDR: Person responsible for constructing
+ 
+the project builder can also be a owner or contractor.
+BLK/BLDG: Solid Blocking
+BTM: Bottom
+BW: Braced Wall
+CL: Center Line
+CLR: Clearance
+CONST: Construction
+CONT: Continious
+DAM: Used to hold back water
+DAMN: Bad Word
+DBL: Double
+DIA Ø: Diameter
+DWG: Drawings
+(E): Existing
+EA: Each
+EL: Elevation
+ENG: Engineer
+EXT: Exterior
+FIN: Finished
+FLR: Floor
+J.G.D.: James George Design
+GFCI: Ground Fault Circuit Interrupter
+GLB: Glue Lam Beam
+GR: Grade
+H.H.: Header Height @ Top of window
+ 
+rough opening & Bottom of header
+HORIZ: Horizontal
+HDR: Header
+JST: Joist
+1
+M.B: Machine Bolts
+MIN: Minimum
+MAX: maximum
+Misc: Miscellaneous
+MFG: Manufacture
+(N): New
+N.I.C.: Not in Contract
+N.T.S.: Not to Scale
+O.C: On Center
+PERP: Perpendicular
+PL: Property Line
+PTDF: Pressure Treated Douglas Fir
+REINF: Reinforcement
+(R): Removed
+SIM: SIMILAR
+SL: SLOPE
+SOG: Slab on Grade
+SPL: Splice
+SSD: See Structural Drawings
+STD: Standard
+STL: Steel
+SW: Shear Wall
+T & B: Top & Bottom
+T.O.S.: Top of Slab
+T.O.W.: Top of Wall
+TYP: Typical
+U.N.O.: Unless Noted Otherwise
+VERT: Vertical
+WTF: What the Bad word
+DEFERRED SUBMITTAL ITEMS:
+1. These plans are the property of James George and are not to be used for any other work than the location shown on this set of
+plans.
+2. The owner, builder or contractor shall not begin construction until plans have been approved by all the agencies having
+authority over this project and a permit has been issued. Plans shall be considered preliminary and not for construction unless
+plans have the wet signature of James George and the wet stamped and signed governing agency letter of approval. James
+George shall not be responsible for any work performed prior to the approval of  the plans.
+3. The owner, contractor, builder and or persons responsible for doing work and supplying services and products for this project
+shall be provided with a complete approved set of plans and said persons shall study all drawings and read every note and or
+spec on this set of plans to ensure their contributions to the project comply with all the requirements on this set of plans. Should
+any questions, conflicts or concerns arise the project designer shall be notified prior to providing a bid or starting work.
+4. No deviations from the approved plans shall be made regardless of whether it is due to a change in the owners taste preference
+or due to a conflict in the drawings without the written approval of the project designer and or structural engineer. The designer
+and or project engineer shall be notified so deviation can be verified for code compliance and submitted to the governing
+agencies for approval prior to continuing construction. Approval by inspector in field does not constitute authority to deviate
+from plans or specs.
+5. Notes and details on drawings shall take precedence over the general notes. Where notes may conflict, the most restrictive shall
+apply unless advised by James George otherwise in writing.
+6. It shall be the responsibility of the contractor to locate all existing utilities whether shown on the plans or not and to protect
+them from damage.
+7.  All material and workmanship shall comply with the latest edition of the California building code. All applicable local codes,
+federal codes, state codes, ordinances and regulations shall be complied with. It is the responsibility of anyone supplying labor,
+materials or both to bring to the attention of the designer and the owner any discrepancies or conflict between the requirements
+of the code and the drawings.
+8. The design, adequacy and safety of erection, bracing, shoring, temporary supports, etc., is the sole responsibility of the
+contractor and has not been considered by the structural engineer or designer. The general contractor is responsible for the
+stability of the structure prior to the application of the shear walls, roof and floor diagrams and finish materials. He or she shall
+provide the necessary bracing to provide stability prior to the application of the fore mentioned materials. Observation visits to
+the site by the designer and or structural engineer shall not include inspection or approval of the above items.
+9. The general contractor or builder shall verify all dimensions and site conditions before bidding the project and starting work and
+shall notify the designer and owner of any discrepancy or possible conflict found.
+10. The designer shall be notified immediately by the contractor, builder or owner should any discrepancy or other question arise
+pertaining to the working drawings.
+11. On-site verification of all dimensions and conditions shall be the responsibility of the contractor and his or her subcontractors.
+Noted dimensions take precedent over scaled dimensions. Do not scale off of the plans if you have questions, contact the
+designer.
+12. No framing of any type shall be concealed prior to inspection by governing agencies.
+13. No changes are to be made to these plans without the knowledge or consent of the designer engineer whose signature appears
+hereon.
+14. All of the ASTM designations are to be of the latest editions.
+15. Contractors shall check and verify size requirements and the location of the existing electrical services and plumbing runs and
+or services with electrical and plumbing contractors or person doing said work before bidding the project and beginning
+construction.
+16. The contractor shall be held responsible for the results of errors, discrepancies or omissions which the contractor failed to notify
+the designer or engineer before construction and or fabrication of the work.
+17. Release of the plans contemplates further cooperation among owners, their contractor and the designer. Design and construction
+are complex, although the designer and his consultants have performed their services with due care and diligence. They cannot
+guarantee perfection. Communication is imperfect and every contingency cannot be anticipated. Any ambiguity or discrepancy
+discovered by use of these plans shall be reported immediately to the designer. Failure to notify the designer compounds
+misunderstanding and increases construction costs. A failure to cooperate by a simple notice to the designer regarding these
+issues shall relieve the designer from responsibility for all consequences.
+18. All required permits shall be obtained by the owner or builder.
+19. Grading and drainage: all paving, flat work and planters next to building shall be properly graded to carry water away from
+buildings.
+R-3/U
+2
+NO
+THE BLDG DEPT PLAN CHECKER DOES HAVE THE PERMISSION OF JAMES GEORGE TO RED MARK THIS SET OF PLANS  FOR CLARITY
+TO  THE CONTRACTOR IN THE FIELD OR TO CLARIFY CORRECTIONS NEEDED ON THE PLANS, IF PLANS ARE APPROVED W/ RED
+MARKES PLAN  CHECKER SHALL NOTIFY JAMES SO FUTURE SETS WILL HAVE THE SAME INFO
+COV-1
+PROJECT DESIGNER:
+JAMES GEORGE DESIGNS INC.
+JAMES GEORGE
+30 LEMON HILL TRAIL
+NAPA , CALIF. 94558
+[ 707 ] 580-6704
+MELISSA BERIKER
+2006 WEBBER AVE
+YOUNTVILLE, CA. 94599
+(650) 743-1953
+TESTS & SPECIAL INSPECTION ITEMS:
+D
+SITE CLASIFICATION
+BASIC WIND SPEED / EXPOSURE
+92 MPH / C
+CONVENTIONAL FRAMING
+COV-1
+DATE THE BUILDING WAS CONSTRUCTED
+FLOOD ZONE
+X
+WILDLAND-URBAN INTERFACE AREA
+NO
+BUILDING HEIGHT
+13'-2"
+FIRE SPRINKLERS REQD
+NO
+1957
+CONVERT A PORTION OF THE EXISTING CAR PORT INTO A NEW PROPOSED DINING
+ROOM PER THE ENCLOSED PLANS
+PRESCRIPTIVE PACKAGE
+CONCRETE CONSTRUCTION 
+ 
+ 
+ 
+ 
+ANCHORS INSTALLED IN HARDENED CONCRETE 
+PERIODIC INSPECTION TYPE
+INCLUDING EPOXY DOWELS
+INSPECTION ITEM:
+INSPECTION TYPE:
+RELOCATE THE EXISTING REFRIGERATOR AS REQUIRED TO PROVIDE ACCESS INTO THE NEW
+PROPOSED DINING ROOM
+4.
+1.
+THE SPECIAL INSPECTOR SHALL BE A QUALIFIED PERSON WHO SHALL DEMONSTRATE COMPETENCE, TO THE SATISFACTION OF THE
+BUILDING OFFICIAL, FOR INSPECTION OF THE PARTICULAR TYPE OF CONSTRUCTION OR OPERATION REQUIREING SPECIAL INSPECTION.
+2.
+THE PERMIT APPLICANT SHALL OBTAIN A TESTS & INSPECTIONS FORM FROM THE BLDG DEPT IF AVAILABLE  TO BE FILLED OUT &
+SIGNED BY THE SPECIAL INSPECTOR, OWNER, & DESIGN PROFESSIONAL,OR SUBMIT A STATEMENT OF SPECIAL INSPECTIONS PREPARED
+BY A DESIGN PROFESSIONAL OR QUALIFIED PERSON APPROVED BY THE BUILDING OFFICIAL.
+3.
+THE SPECIAL INSPECTOR SHALL FURNISH INSPECTION REPORTS TO THE BUILDING OFFICIAL, & THE REGISTERED DESIGN PROFESSIONAL
+IN RESPONSIBLE CHARGE, REPORTS SHALL INDICATE THAT WORK INSPECTED WAS DONE IN CONFORMANCE TO APPROVED CONST. DOC'S.
+THE OWNER SHALL DIRECTLY HIRE & EMPLOY ONE OR MORE  SPECIAL  INSPECTORS TO INSPECT THE ITEMS ABOVE DURING
+CONSTRUCTION  & THE OWNER SHALL SCHEDULE W/  SPECIAL INSPECTOR PRIOR TO BEGINING SAID OPERATIONS TO ENSURE  THE
+INSPECTOR  IS ON SITE @ TIME OF SAID ITEMS.[IT IS A CONFLICT OF INTEREST &  PROHIBITED FOR THE CONTRACTOR TO PAY THE INSPECTOR]
+TESTS & SPECIAL INSPECTION NOTES:
+EXISTING CONDITIONED LIVING SPACE:
+PROPOSED NEW CAR-PORT CONVERSION /
+ADDED CONDITIONED LIVING SPACE:
+1,329 SQ FT
+111 SQ FT
+AREA OF THE [E] LIVING SPACE TO BE REMODELED:
+9 SQ FT
+INCREASED LIVING SPACE PERCENTAGE:
+THE EXISTING 1,329 SQ FT LIVING SPACE WILL BE INCREASED BY 111 SQ FT
+WHICH IS AN INCREASE OF 8 % OF THE ORIGINAL LIVING SPACE
+EXISTING CAR PORT SIZE:
+312 SQ FT
+EXISTING FRONT PORCH SIZE:
+150 SQ FT
+PROPOSED TOTAL CONDITIONED
+LIVING SPACE AFTER CONSTRUCTION:
+1,440 SQ FT
+PROPOSED TOTAL ENCLOSED BUILDING
+SIZE AFTER CONSTRUCTION:
+1,440 SQ FT
+PROPOSED PORTION OF THE [E] CAR-PORT TO
+REMAIN A CAR PORT:
+201 SQ FT
+PROPOSED TOTAL CAR PORT SIZE AFTER CONSTRUCTION
+201 SQ FT
+INCREASED ENCLOSED BUILDING SIZE PERCENTAGE:
+THE EXISTING 1,329 SQ FT OF ENCLOSED BUILDING SPACE WILL
+BE INCREASED BY 312 SQ FT WHICH IS AN INCREASE OF 23%
+OF THE ORIGINAL ENCLOSED BUILDING SIZE.
+APN# 036-053-009
+2006 WEBBER AVE
+YOUNTVILLE, CA. 94599
+1
+1
+1
+2022 [CRC] CALIFORNIA RESIDENTIAL CODE
+2022 [CBC] CALIFORNIA BUILDING CODE
+2022 [CEC] CALIFORNIA ELECTRICAL CODE
+2022 [CMC] CALIFORNIA MECHANICAL CODE
+2022 [CPC] CALIFORNIA PLUMBING CODE
+2022 [CFC] CALIFORNIA FIRE CODE
+2022 [CAC] CALIFORNIA ADMINISTRATIVE CODE
+2022 [CGBSC] CALIFORNIA GREEN BUILDING STANDARDS CODE
+2022 [CRSC] CALIFORNIA REFERENCED STANDARD CODE
+2022 [CEC] CALIFORNIA ENERGY CODE
+2022 [CEBC] CALIFORNIA EXISTING BUILDING CODE
+2
+STRUCTURAL DESIGN CRITERIA:
+BUILDING CODE: 2022 CALIFORNIA BUILDING CODE    ASCE 7-16
+VERTICAL LOADS:
+ 
+ROOF DEAD LOAD  
+15PSF
+ 
+ROOF LIVE LOAD  
+20PSF COMP SHINGLES
+ 
+CEILING DEAD LOAD 
+7PSF  GYPSUM CEILING
+ 
+CEILING LIVE LOAD   
+10PSF (NON-CONCURRENT W/ RLL)
+ 
+FLOOR LIVE LOAD  
+40 PSF BASIC FLOOR AREA/ DECK/ STORAGE
+ 
+WALL DEAD LOAD  
+20PSF
+ 
+BEARING CAPACITY  
+1,500 P.S.F. CBC U.O.N.
+LATERAL LOADS:
+WIND SPEED 
+ 
+ 
+ 
+92MPH
+EXPOSURE 
+ 
+ 
+ 
+C
+SITE CLASS 
+ 
+ 
+ 
+D (DEFALT)
+RISK CATEGORY 
+ 
+ 
+ 
+II
+le: 
+ 
+ 
+ 
+ 
+1
+lp: 
+ 
+ 
+ 
+ 
+1
+S.D.C. 
+ 
+ 
+ 
+ 
+D
+R 
+ 
+ 
+ 
+ 
+6.5
+OMEGA 
+ 
+ 
+ 
+3.0 -1/2=2.5 (FLEXIBLE DIAPHRAGM)
+Cd 
+ 
+ 
+ 
+ 
+4.0
+2
+2
+PLAN CHECK
+ REVISIONS 2-11-25
+2

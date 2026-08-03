@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T17:06:58.558Z",
+  "updatedAt": "2026-07-24T16:46:02.507Z",
   "entries": {
     "memory:memory/2026-03-02.md:1:22": {
       "key": "memory:memory/2026-03-02.md:1:22",
@@ -9,18 +9,20 @@
       "endLine": 22,
       "source": "memory",
       "snippet": "# 2026-03-02 ## Remote desktop capability plan (primary goal) Ethan’s primary goal: maximize ability to use OpenClaw + Desktop remotely with as many functions/capabilities as possible. ### Agreed approach / priorities 1) Install Tailscale on **Windows** (Desktop) + Windows laptop for stable remote access. 2) Enable/verify SSH access (prefer Tailscale SSH into Windows). Then use `wsl` from that shell to manage WSL/OpenClaw. 3) Finish ACP Gemini setup on Desktop: - Set `GEMINI_API_KEY` in the **openclaw-gateway systemd service** environment in WSL via `/etc/openclaw/secrets.env` + systemd override `EnvironmentFile=`. - Restart `openclaw-gateway`. - Run a Gemini ACP smoke test. 4) In",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1,
+      "totalScore": 2,
       "maxScore": 1,
       "firstRecalledAt": "2026-05-22T17:06:58.558Z",
-      "lastRecalledAt": "2026-05-22T17:06:58.558Z",
+      "lastRecalledAt": "2026-07-16T22:32:44.390Z",
       "queryHashes": [
-        "3056c9b0e379"
+        "3056c9b0e379",
+        "af92deed4c7d"
       ],
       "recallDays": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-07-16"
       ],
       "conceptTags": [
         "gateway",
@@ -155,6 +157,507 @@
         "finalization",
         "progress",
         "aerospect"
+      ]
+    },
+    "memory:memory/2026-03-18.md:1:21": {
+      "key": "memory:memory/2026-03-18.md:1:21",
+      "path": "memory/2026-03-18.md",
+      "startLine": 1,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "# 2026-03-18 ## Context / status - Tried to build Canva pitch deck Market Opportunity slide via browser automation. - Browser tool failures: - Could not attach to user Chrome (DevToolsActivePort missing at ~/.config/google-chrome/DevToolsActivePort). - Managed browser failed: \"No supported browser found\" initially. - Installed chromium-browser in WSL Ubuntu 24.04 (path: /usr/bin/chromium-browser). - After install, browser tool timed out and instructed to restart OpenClaw gateway; restart did not resolve; browser automation still unavailable. - Browser Relay mentioned as connected/attached, but control not established (needed extension popup status text). ## Links provided - Google",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-16T22:32:44.390Z",
+      "lastRecalledAt": "2026-07-16T22:32:44.390Z",
+      "queryHashes": [
+        "af92deed4c7d"
+      ],
+      "recallDays": [
+        "2026-07-16"
+      ],
+      "conceptTags": [
+        "gateway",
+        "chromium-browser",
+        "24.04",
+        "usr/bin/chromium-browser",
+        "connected/attached",
+        "context",
+        "status",
+        "tried"
+      ]
+    },
+    "memory:memory/2026-03-03.md:20:41": {
+      "key": "memory:memory/2026-03-03.md:20:41",
+      "path": "memory/2026-03-03.md",
+      "startLine": 20,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "- Added section CTAs: `See Sample Report` and `Request Assessment`. - Replaced the single How It Works visual with 3 labeled blocks using user-provided images: - `client/public/images/how-rgb.jpg` - `client/public/images/how-ndvi.jpg` - `client/public/images/how-thermal.jpg` ## Debugging/browser relay lessons - Chrome Relay warning banner behavior can affect more than one tab/profile context; practical mitigation is isolating automation in a dedicated Chromium/Chrome instance. - Created local launcher for isolated relay browser: - Script: `~/.local/bin/openclaw-relay-chrome` - Desktop entry: `~/.local/share/applications/openclaw-relay-chrome.desktop` - Profile dir: `~/.opencla",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-16T22:32:44.390Z",
+      "lastRecalledAt": "2026-07-16T22:32:44.390Z",
+      "queryHashes": [
+        "af92deed4c7d"
+      ],
+      "recallDays": [
+        "2026-07-16"
+      ],
+      "conceptTags": [
+        "user-provided",
+        "client/public/images/how-rgb.jpg",
+        "debugging/browser",
+        "tab/profile",
+        "chromium/chrome",
+        "local/bin/openclaw-relay-chrome",
+        "added",
+        "section"
+      ]
+    },
+    "memory:memory/2026-02-21.md:1:16": {
+      "key": "memory:memory/2026-02-21.md:1:16",
+      "path": "memory/2026-02-21.md",
+      "startLine": 1,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "## 2026-02-21 (PST) ### Shared workspace sync habit (both machines) Daily sync routine: - Before working: - `cd ~/.openclaw/workspace` - `git pull --rebase` - After making changes (notes, memory, etc.): - `git add .` - `git commit -m \"Update memory + notes\"` - `git push` Notes: - Repo: https://github.com/etarran-aerospect/openclaw-workspace - Desktop clone remote switched to SSH: `git@github.com:etarran-aerospect/openclaw-workspace.git`",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-16T22:32:44.390Z",
+      "lastRecalledAt": "2026-07-16T22:32:44.390Z",
+      "queryHashes": [
+        "af92deed4c7d"
+      ],
+      "recallDays": [
+        "2026-07-16"
+      ],
+      "conceptTags": [
+        "openclaw/workspace",
+        "github.com",
+        "pst",
+        "shared",
+        "sync",
+        "habit",
+        "both",
+        "machines"
+      ]
+    },
+    "memory:memory/2026-03-12.md:1:18": {
+      "key": "memory:memory/2026-03-12.md:1:18",
+      "path": "memory/2026-03-12.md",
+      "startLine": 1,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "# 2026-03-12 ## Remote setup thread (Ethan) - Ethan is installing **OpenClaw Browser Relay** extension and asked where to find the **Gateway token**: - Location: `~/.openclaw/openclaw.json` → `gateway.auth.token` - Goal for improving remote use (to do when Ethan is back at Desktop): 1) Set `GEMINI_API_KEY` for the `openclaw-gateway` **systemd** service (env file + override) 2) Restart `openclaw-gateway` 3) Run a quick Gemini ACP smoke test - Ethan explicitly does **not** want repeating reminders (token burn / tends to get messed up). A repeating 6-hour cron reminder was created then immediately removed. ## Config/auth observations - Current primary model: `openai-codex/gpt-5.2` via",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-16T22:32:44.390Z",
+      "lastRecalledAt": "2026-07-16T22:32:44.390Z",
+      "queryHashes": [
+        "af92deed4c7d"
+      ],
+      "recallDays": [
+        "2026-07-16"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gpt",
+        "openai",
+        "openclaw/openclaw.json",
+        "gateway.auth.token",
+        "gemini-api-key",
+        "openclaw-gateway",
+        "6-hour"
+      ]
+    },
+    "memory:memory/2026-02-27.md:1:30": {
+      "key": "memory:memory/2026-02-27.md:1:30",
+      "path": "memory/2026-02-27.md",
+      "startLine": 1,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "# 2026-02-27 ## ChatGPT + Drive handoff workflow setup - Resolved `gog` non-interactive auth issue for OpenClaw by adding `GOG_KEYRING_PASSWORD` to `systemd --user` override for `openclaw-gateway`. - Uploaded website handoff package to Google Drive folder: - `AeroSpect Website Handoff 2026-02-26` (kept folder ID: `140bgOHmhQlIuW8NpI3kQbpBW5z-wQCYh`). - Created `AI-Handoffs` workflow folder (kept folder ID: `12i5sOnnKRZQO3SahByrIG4DZvmMTEnZH`) with: - `INBOX.md` - `SPEC.md` - `DONE.md` - `HOW-TO-USE-AI-HANDOFFS.md` - Duplicate Drive folders were identified and trashed with Ethan's explicit approval. ## Workflow decisions - Goal: robust, minimal copy/paste bridge between ChatGPT an",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-24T04:13:48.100Z",
+      "lastRecalledAt": "2026-07-24T04:13:48.100Z",
+      "queryHashes": [
+        "32d84c89cf0a"
+      ],
+      "recallDays": [
+        "2026-07-23"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gpt",
+        "non-interactive",
+        "gog-keyring-password",
+        "openclaw-gateway",
+        "ai-handoffs",
+        "inbox.md",
+        "spec.md"
+      ]
+    },
+    "memory:memory/2026-07-22.md:37:39": {
+      "key": "memory:memory/2026-07-22.md:37:39",
+      "path": "memory/2026-07-22.md",
+      "startLine": 37,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "- Follow-up correction on the Shelina premium pass: Ethan pointed out the website itself needs to read like a real client website, not an annotated review, though an accompanying explainer is fine. Updated `index.html` to remove internal redesign/mockup language from the page body and footer, changed the middle offer section to client-facing copy, kept rationale in `README.md` / `review-notes.md`, refreshed Playwright screenshots, scanned for leftover mockup/explainer terms, and created archive `reports/shelina-pabani-premium-review-2026-07-22-v6.tar.gz`. - Ethan shared a ChatGPT image link containing a Shelina brand board. Browser rendered it as an image dialog rather than full chat text; v",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-24T04:13:48.100Z",
+      "lastRecalledAt": "2026-07-24T04:13:48.100Z",
+      "queryHashes": [
+        "32d84c89cf0a"
+      ],
+      "recallDays": [
+        "2026-07-23"
+      ],
+      "conceptTags": [
+        "gpt",
+        "follow-up",
+        "index.html",
+        "redesign/mockup",
+        "client-facing",
+        "readme.md",
+        "review-notes.md",
+        "mockup/explainer"
+      ]
+    },
+    "memory:memory/2026-07-22.md:19:20": {
+      "key": "memory:memory/2026-07-22.md:19:20",
+      "path": "memory/2026-07-22.md",
+      "startLine": 19,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "- Ethan pointed out the Bay Area Design Lab site still had random-looking `1,2,3`/`01,02,03` scaffolding and that this undermines the claim of building amazing professional websites. Corrected repo `mantarran-72/bay-area-design-lab-ek`: removed numeric scaffold labels from hero/services/about, strengthened the hero brand presentation, tightened narrow/mobile hero sizing after screenshot verification, and preserved the real work examples (`Pacific Houseworks` and `Your AI Ally`). Latest related commit: `2d2ecddb69a4182e5a9358aa2b5d52fd0cbc8249`. - Ethan supplied a ChatGPT-generated Bay Area Design Lab brand board: square grid mark, orange signal dot, charcoal `#111418`, off-white `#F7F5EE`, b",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-24T04:13:48.100Z",
+      "lastRecalledAt": "2026-07-24T04:13:48.100Z",
+      "queryHashes": [
+        "32d84c89cf0a"
+      ],
+      "recallDays": [
+        "2026-07-23"
+      ],
+      "conceptTags": [
+        "gpt",
+        "random-looking",
+        "hero/services/about",
+        "narrow/mobile",
+        "chatgpt-generated",
+        "off-white",
+        "ethan",
+        "pointed"
+      ]
+    },
+    "memory:memory/2026-07-21.md:12:17": {
+      "key": "memory:memory/2026-07-21.md:12:17",
+      "path": "memory/2026-07-21.md",
+      "startLine": 12,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "- Positioning: sell a cleaner mobile-first redesign focused on calls/texted job photos, real job photos, local Santa Rosa/Sonoma County SEO, visible license number, and no risky \"Certified Arborist\" claim. - BBB public listing still showed phone `707-843-2333`, license `#1111482`, and an advertising concern around an unsubstantiated \"Certified Arborist\" website claim. - Ethan said the mockups looked too much like free AI-generated sites and provided design guidance: premium/editorial, real work photos, no card grids, no generic stock, no gradients, no fake icons/counters/awards, typography-led, and good enough to sell like a $5k site. - Created higher-quality v3, later renamed to client-faci",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.43618283867836,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-24T04:13:48.100Z",
+      "lastRecalledAt": "2026-07-24T16:46:02.507Z",
+      "queryHashes": [
+        "32d84c89cf0a",
+        "66156bd49ca4",
+        "94dcc49d8ef9"
+      ],
+      "recallDays": [
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "conceptTags": [
+        "mobile-first",
+        "calls/texted",
+        "rosa/sonoma",
+        "707-843-2333",
+        "ai-generated",
+        "premium/editorial",
+        "icons/counters/awards",
+        "typography-led"
+      ]
+    },
+    "memory:memory/2026-07-23.md:22:28": {
+      "key": "memory:memory/2026-07-23.md:22:28",
+      "path": "memory/2026-07-23.md",
+      "startLine": 22,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "- Final architecture clarification: the clean production path is `bayareadesignlab.com` form → Vercel `/api/contact` → Hermes `badl-contact` webhook → Telegram. The file-write and separate lead script are unnecessary for the current goal. Stable Hermes webhook URL is `http://129.146.53.190:8644/webhooks/badl-contact`; the webhook secret was provided in chat for Vercel env vars but should not be repeated in memory. ## All Tree Service preview review slider - Updated the public All Tree Service preview at `https://all-tree-service-preview.ethan875743.chatgpt.site` with a before/after slider in the review highlights section. - Source repo: `reports/all-tree-service-share-site/`; commit `20a225",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.3564315140247345,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-24T04:13:54.459Z",
+      "lastRecalledAt": "2026-07-24T16:46:02.507Z",
+      "queryHashes": [
+        "66156bd49ca4",
+        "94dcc49d8ef9"
+      ],
+      "recallDays": [
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "conceptTags": [
+        "gpt",
+        "bayareadesignlab.com",
+        "api/contact",
+        "badl-contact",
+        "file-write",
+        "129.146.53.190",
+        "8644/webhooks/badl-contact",
+        "before/after"
+      ]
+    },
+    "memory:memory/2026-07-23.md:33:36": {
+      "key": "memory:memory/2026-07-23.md:33:36",
+      "path": "memory/2026-07-23.md",
+      "startLine": 33,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "- Review copy refinement: removed the Yelp Fusion API explanatory sentence, added `5.0 star rating on Yelp!` under `Review highlights.`, and added `Frank W. on Yelp` to the enlarged slider review. Commits `3306e29f39facf06b516dd2192253fab7b3bcba2` and packaging commit `af0bf4b2fa634286b1af980a92f330a94f9b27df`; Sites version 11 deployed. Verified live root and direct HTML contain the new rating/name and no longer contain the removed sentence. - Logo replacement: Ethan supplied a cleaner All Tree Service logo image. Converted it to `public/assets/all-tree-logo-transparent.png` by flood-removing only edge-connected white background into PNG alpha, replaced the embedded base64 logo in `index.ht",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-07-24T04:13:54.459Z",
+      "lastRecalledAt": "2026-07-24T04:13:54.459Z",
+      "queryHashes": [
+        "66156bd49ca4"
+      ],
+      "recallDays": [
+        "2026-07-23"
+      ],
+      "conceptTags": [
+        "5.0",
+        "rating/name",
+        "flood-removing",
+        "edge-connected",
+        "index.ht",
+        "review",
+        "copy",
+        "refinement"
+      ]
+    },
+    "memory:memory/2026-07-23.md:1:7": {
+      "key": "memory:memory/2026-07-23.md:1:7",
+      "path": "memory/2026-07-23.md",
+      "startLine": 1,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "# 2026-07-23 ## Shelina Pabani premium website pass - Ethan wanted the Shelina Pabani website concept to feel premium and client-ready, with explanations moved out of the site copy and into a separate annotated screenshot. - Updated `reports/shelina-pabani-premium-review-2026-07-22/` v8: tightened the hero/content language, kept the integrated SP monogram, used a smaller founder profile area, replaced uneven external client-logo images with a designed proof grid using controlled typed wordmarks/color cues, fixed mobile overflow, and generated desktop/mobile/full-page screenshots. - Created explainer artifact `reports/shelina-pabani-premium-v8-callouts.png` plus SVG source, and packaged non-",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5980837065040548,
+      "maxScore": 0.5980837065040548,
+      "firstRecalledAt": "2026-07-24T15:08:30.709Z",
+      "lastRecalledAt": "2026-07-24T15:08:30.709Z",
+      "queryHashes": [
+        "1cc5f116c46f"
+      ],
+      "recallDays": [
+        "2026-07-24"
+      ],
+      "conceptTags": [
+        "client-ready",
+        "hero/content",
+        "client-logo",
+        "wordmarks/color",
+        "desktop/mobile/full-page",
+        "shelina",
+        "pabani",
+        "premium"
+      ]
+    },
+    "memory:memory/2026-07-24.md:1:9": {
+      "key": "memory:memory/2026-07-24.md:1:9",
+      "path": "memory/2026-07-24.md",
+      "startLine": 1,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "# 2026-07-24 ## All Tree Service website callouts - Finished adding 10 callout annotations to the All Tree Service website screenshot. - Updated SVG overlay (`website-callouts.svg`) with properly positioned callouts matching the screenshot. - Generated annotated PNG (`website-design-callouts.png`) using sharp for compositing. - Updated `website-design-annotations.md` to match the 10 callout labels. - Callouts cover: Brand & Navigation, Phone Button, Emergency Banner, Call Now Button, Recent Tree Work, Yelp Source, Large Hero Photo, Service Range, Work Captions, Clean Job Sites.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8015920804030371,
+      "maxScore": 0.8015920804030371,
+      "firstRecalledAt": "2026-07-24T16:46:02.507Z",
+      "lastRecalledAt": "2026-07-24T16:46:02.507Z",
+      "queryHashes": [
+        "94dcc49d8ef9"
+      ],
+      "recallDays": [
+        "2026-07-24"
+      ],
+      "conceptTags": [
+        "website-callouts.svg",
+        "website-design-callouts.png",
+        "website-design-annotations.md",
+        "all",
+        "tree",
+        "service",
+        "website",
+        "callouts"
+      ]
+    },
+    "memory:memory/2026-07-18.md:15:18": {
+      "key": "memory:memory/2026-07-18.md:15:18",
+      "path": "memory/2026-07-18.md",
+      "startLine": 15,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "- Built an All Tree Service static mockup package at `reports/all-tree-service-mockup-2026-07-18/` using Ethan-provided Telegram screenshots/photos. Explicit constraint: do not claim \"Certified Arborist\"; the mockup uses licensed/family-owned/emergency/commercial/free-estimate/price-match framing instead. Bathroom screenshots were intentionally excluded. - After Ethan saw a broken logo image on his laptop preview, added `index-standalone.html` with embedded real logo/photos and packaged `reports/all-tree-service-mockup-2026-07-18-standalone.zip` for easier cross-machine preview. - Ethan provided a Yelp Fusion API key for the Hermes/local-business mockup workflow. Tested it against `all-tree-",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3749309778213501,
+      "maxScore": 0.3749309778213501,
+      "firstRecalledAt": "2026-07-24T16:46:02.507Z",
+      "lastRecalledAt": "2026-07-24T16:46:02.507Z",
+      "queryHashes": [
+        "94dcc49d8ef9"
+      ],
+      "recallDays": [
+        "2026-07-24"
+      ],
+      "conceptTags": [
+        "ethan-provided",
+        "screenshots/photos",
+        "index-standalone.html",
+        "logo/photos",
+        "cross-machine",
+        "hermes/local-business",
+        "all-tree",
+        "built"
+      ]
+    },
+    "memory:memory/2026-07-23.md:35:38": {
+      "key": "memory:memory/2026-07-23.md:35:38",
+      "path": "memory/2026-07-23.md",
+      "startLine": 35,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "- Pre-compaction note: for future All Tree Service preview work, the canonical deployable source used today was `reports/all-tree-service-share-site/`. The important lesson from the \"no changes\" report is to update/sync the root `index.html` path before saving a Sites version, because Ethan checks the bare preview URL. ## All Tree Service copy cleanup (post-compaction) - Applied Ethan's final copy pass to `reports/all-tree-service-share-site/index.html`, `public/index.html`, and `public/All_Tree_Service-website-preview.html`: removed `Real All Tree Service photos from Yelp make the site feel local and credible fast.`, changed the gallery heading `Recent tree work and cleanup.` to `Recent tr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.37320632636547085,
+      "maxScore": 0.37320632636547085,
+      "firstRecalledAt": "2026-07-24T16:46:02.507Z",
+      "lastRecalledAt": "2026-07-24T16:46:02.507Z",
+      "queryHashes": [
+        "94dcc49d8ef9"
+      ],
+      "recallDays": [
+        "2026-07-24"
+      ],
+      "conceptTags": [
+        "pre-compaction",
+        "update/sync",
+        "index.html",
+        "post-compaction",
+        "public/index.html",
+        "pre",
+        "compaction",
+        "future"
+      ]
+    },
+    "memory:memory/2026-07-23.md:33:37": {
+      "key": "memory:memory/2026-07-23.md:33:37",
+      "path": "memory/2026-07-23.md",
+      "startLine": 33,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "- Review copy refinement: removed the Yelp Fusion API explanatory sentence, added `5.0 star rating on Yelp!` under `Review highlights.`, and added `Frank W. on Yelp` to the enlarged slider review. Commits `3306e29f39facf06b516dd2192253fab7b3bcba2` and packaging commit `af0bf4b2fa634286b1af980a92f330a94f9b27df`; Sites version 11 deployed. Verified live root and direct HTML contain the new rating/name and no longer contain the removed sentence. - Logo replacement: Ethan supplied a cleaner All Tree Service logo image. Converted it to `public/assets/all-tree-logo-transparent.png` by flood-removing only edge-connected white background into PNG alpha, replaced the embedded base64 logo in `index.ht",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.35779828429222105,
+      "maxScore": 0.35779828429222105,
+      "firstRecalledAt": "2026-07-24T16:46:02.507Z",
+      "lastRecalledAt": "2026-07-24T16:46:02.507Z",
+      "queryHashes": [
+        "94dcc49d8ef9"
+      ],
+      "recallDays": [
+        "2026-07-24"
+      ],
+      "conceptTags": [
+        "5.0",
+        "rating/name",
+        "flood-removing",
+        "edge-connected",
+        "index.ht",
+        "review",
+        "copy",
+        "refinement"
+      ]
+    },
+    "memory:memory/2026-07-18.md:19:22": {
+      "key": "memory:memory/2026-07-18.md:19:22",
+      "path": "memory/2026-07-18.md",
+      "startLine": 19,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "- Ethan wants to revive/automate an older local-business mockup sales idea: find businesses with no/bad websites, generate static mockups using real Yelp/Google signals, then sell the finished site. Tree service is the first target vertical because local operators are actively paying/working for leads via cards/flyers/door drops and many have Yelp/Google presence without strong web presence. Created `reports/yelp-tree-service-mockup-automation-plan-2026-07-18.md`. - Converted the Reddit-style local-business research prompt into a Hermes-ready leadgen + mockup prompt at `reports/hermes-local-website-leadgen-prompt-2026-07-18.md`, with Yelp API guardrails, website verification rules, scoring,",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3526349484920501,
+      "maxScore": 0.3526349484920501,
+      "firstRecalledAt": "2026-07-24T16:46:02.507Z",
+      "lastRecalledAt": "2026-07-24T16:46:02.507Z",
+      "queryHashes": [
+        "94dcc49d8ef9"
+      ],
+      "recallDays": [
+        "2026-07-24"
+      ],
+      "conceptTags": [
+        "revive/automate",
+        "local-business",
+        "no/bad",
+        "yelp/google",
+        "paying/working",
+        "cards/flyers/door",
+        "reddit-style",
+        "hermes-ready"
       ]
     }
   }

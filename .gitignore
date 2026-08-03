@@ -63,3 +63,5 @@ tmp_coreg/
 # External persistent agent memory. In this workspace, AI may be a symlink to ~/AI.
 AI
 AI/
+.vercel
+.env*

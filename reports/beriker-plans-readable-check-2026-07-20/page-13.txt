@@ -1,0 +1,374 @@
+AS NOTED
+SHEET NUMBER:
+OF
+PROJECT TITLE:
+REVISIONS:
+SHEET DESCRIPTION:
+SCALE:
+DATE:
+CONVENTIONAL
+FRAMING
+NOTES AND
+SCHEDULES
+THESE PLANS ARE CONSIDERED PERLIMINARY AND NOT FOR CONSTRUCTION UNLESS THESE PLANS BEAR THE WET OR DIGITAL SIGNATURE OF JAMES GEORGE.  ALONG WITH THE GOVERNING AGENCY'S REVIEW SEAL OF APPROVAL AND WET SIGNATURE.
+PROJECT DESIGNER
+JAMES GEORGE
+PLANS PREPARED BY:
+7-10-2022
+W/ 22 SHEETS TOTAL
+CELL: 707 580-6704
+FAX 707 438-0377
+DESIGNS
+DESIGNS
+JAMES GEORGE
+JAMES GEORGE
+INC
+INC
+OFF: 707 425- 4156
+30 LEMON HILL TRAIL
+JAMESGEORGEDESIGNS.COM
+E-MAIL : j ame s @j ame s ge or ge de s igns . c om
+NAPA, CALIF, 94558
+JAMES GEORGE DESIGNS INC.  IS A DIVISION  OF A&J CONSULTING SERVICES INC.
+F O R : M E L I S S A B E R I K E R
+2 0 0 6 W E B B E R A V E
+VOUNTVILLE, CA. 94599
+APN # 036-053-009
+DWELLING ADDITION PLANS
+CONVENTIONAL FRAMING NOTES & REQUIREMENTS:
+1. Contractors Approval:
+a. 
+Prior to bidding/starting construction, the contractor shall coordinate
+all the construction documents to ensure they are all of the latest revision,
+b. 
+The builder shall verify all the dimensions, check for conflicting
+requirements and report to James George any discrepancies and field
+conditions which are different from the drawings.
+c. 
+Areas requiring special attention: include but are not limited to
+variations caused by different elevations, for example location changes of
+holdowns and post anchors due to different window sizes, location and
+porch layout, the existence or nonexistence of interior bearing wall and
+footings, planter shelves, box columns, brick ledge, isolated column pads,
+ect.
+2. Not to Scale: Drawings are not to be scaled. James George shall determine
+dimensions not specified when required by field condition.
+3. Typical Details: Typical and similar details shall apply where no specific
+details are given. Material notes and details shall take precedence over the
+structural notes.
+4. Simpson Strong Tie: All structural connecting hardware shall be MFG by Simpson
+Strong Tie.  The builders shall always maintain a copy of this year’s Simpson Catalog
+with him or her.
+5. Revisions and Modifications:
+a. 
+All drawings and subsequent revisions shall be approved by James
+George prior to starting construction. No structural members shall be
+substituted, relocated or omitted without written approval.
+b. 
+Field modifications: When the installation of mechanical, plumbing,
+electrical, landscaping and other similar elements requires changes or
+modifications including boring, notching or cutting made to the structural
+elements, the contractor shall submit each change or modification to James
+George for approval prior to installation.
+6. Sheet-rock Stacking Guidelines: When sheet-rock is stacked on a wood-
+framed floor during construction, the following guidelines shall be followed:
+a. 
+The sheet-rock shall be laid with the long direction perpendicular to
+the joists below.
+b. 
+Sheet-rock must not be stacked more than 2 feet high.
+c. 
+If sleepers are used beneath a stack of sheet-rock, they shall be placed
+at no more than 2’-0” on center.
+d. 
+The floor joist directly beneath a stack of sheet-rock shall be shored
+from below with 4x4 temporary beams placed perpendicular to the joists.
+These beams shall be supported by 2x4 (minimum) posts over 4x4 x 24”
+sleepers  at a minimum spacing of 3’-0” on center. The shoring shall be
+done prior to stacking the sheet-rock and shall be repeated on every floor
+directly below the stacked sheet-rock until a concrete slab or foundation
+system is reached.
+Addition and Remodeling
+1. Contractor shall first verify all existing field conditions and dimensions prior
+to starting construction. Existing construction information given on drawings
+may not be accurate.
+2. Demolition:
+a. 
+Contractor shall safely shore the existing construction wherever the
+existing supports are removed to allow the installation of new work.
+b. 
+No existing members may be removed unless the structural plans
+indicated otherwise. If structural members not indicated for removal are
+interfering with the new work, the contractor shall notify James George
+immediately.
+c. 
+Cutting, drilling, removal, etc. of the existing construction shall be
+performed in great care not to damage the integrity of the building.
+d. 
+All locations where new structure is attached to existing structure shall
+be waterproof and damp proof.
+e. 
+Contractor is to ensure that the new alteration shall not cause any
+existing mechanical, electrical, plumbing, ect. systems to be non-
+operational.
+Foundation Notes:
+Rebar:
+1. Unless noted otherwise, reinforcing steel shall be deformed bars of billet or
+axle steel per ASTM A615. Use Grade 40 for #4 and smaller reinforcing and
+Grade 60 for #5 and larger.
+2. Use ASTM A706 for reinforcing that is to be welded.
+3. Installation: Reinforcing, dowels and other embedded elements shall be in
+place before pouring concrete. Reinforcement shall be clean and free of oil
+and other foreign material.
+4. Clearance:
+a. 
+3” clearance shall be provided where concrete is cast against the earth.
+b. 
+2” clearance for concrete exposed to earth or weather but cast against
+formwork.
+c. 
+1.5” clearance for slabs and walls where concrete is not exposed to
+earth or weather.
+5. Lapping: Lap all reinforcing splices a minimum 48 bar diameters but in no
+cases less than 24”.
+Holdowns:
+1. Hold down locations shall not be scaled off of foundation or framing plans.
+The hold downs shall be located by close evaluation and coordinated between
+the person doing the framing work and the person installing the foundation.
+The framer shall approve all the pre-placed and secured hold down, anchor
+bolt, and post base locations in the field prior to pouring the concrete. It shall
+be the person doing the foundation work’s responsibility to insure all pre-
+placed hold downs, anchor bolts, and post bases remain in the approved
+locations. I suggest that the framer remains on site to ensure any wet set hold-
+downs, anchor bolts, or post footings, are properly placed, and the pre secured
+items remain in the proper positions while the concrete is poured. It is no
+longer easy to just epoxy in new bolts. With today’s code, portions of the
+foundation may need to be replaced if hold-downs are misplaced or forgotten.
+2. For hold down installation the contractor shall refer to the manufacturers’
+specifications for embedment, edge distance, coverage and other requirements.
+Concrete:
+a. Concrete shall be of normal weight and Fe'= 2500 psi minimum at 28 days
+                Cement to be Poured and cement ASTM C-150 type I or II.
+• 
+Aggregate per ASTM C-33.
+• 
+Water is to be clean and potable.
+• 
+High alumina cement must not be used in concrete because of
+high
+                                     sulfide contents.
+• 
+No admixtures containing calcium chlorides or other chlorides
+shall be
+                                    added to the concrete
+b. Unless shown otherwise on plans, cold joints are not allowed.
+c. Concrete placement shall be in one continuous operation, uniformly
+                placed and must be vibrated and well consolidated.
+d. Concrete shall be cured per ACI318 "Current practices and ACI committee
+308
+                Standard Practice for Curing Concrete"
+Anchor Bolts Unless noted otherwise on the foundation plans, sill plates for all
+the exterior walls, interior bearing walls and interior shear or braced frame walls
+shall be anchored to the foundation with 5/8" diameter anchor bolts with 3” square
+x 0.229' washers at a maximum spacing of 4 feet on center.
+Slab Reinforcement: Welded wire fabric is not permitted for structural flat-work.
+UNO use #4’s at 16” o.c. each way at mid-depth. Placing the reinforcement at slab
+mid-depth is very important. Adobe seats, dobies, or rebar chairs are mandatory and
+must seat/bear on base rock not sand.
+Floor Framing Notes:
+1. All rim joists, parallel to framing shall be blocked to 48” o.c. maximum.
+2. Blocking:
+a. 
+At Supports: 2x, Micro Lam, or TJI blocking shall be provided between
+floor joists at two ends and at each supporting point such as bearing walls.
+b. 
+Blocking shall be nailed and or clipped on three sides.
+c. 
+Perpendicular Walls: Provide solid blocking between joists for the entire
+upper wall.
+d. 
+Parallel Partitions: Provide a double joint beneath the upper wall, unless
+noted otherwise. Provide lateral blocking, on both sides at 48” on center.
+3. Floor Sheathing Notes:
+a. 
+Floor sheathing shall be installed with face grain perpendicular to framing
+members below, stagger adjacent panel by 4 feet. Floor sheathing shall be glued
+and nailed.
+b. 
+Panels shall not be less than 24 inches wide unless all edges are solidly
+blocked.
+c. 
+The sheathing panels shall be installed such that there is a 1/8” gap
+maintained between all panel edges to accommodate possible swelling and or
+expansion.
+d. 
+TJI or BCI Joists: “I” Joists shall be installed per manufacturers’
+recommendations. Contractors shall carefully read the manufacturers’ product
+installation manual for special attentions including the nailing schedule.
+Wall Framing Notes:
+1. Studs shall be spaced @ max 16” o.c. and shall be full height from the base plate to
+the top plates in contact with the roof framing. Splicing of studs is not acceptable and
+may cause a hinge point.
+2. King Studs: Unless otherwise noted all window and door openings 5ft and wider in
+bearing walls shall have full-height double king studs. Interior non bearing walls can
+have a single king stud provided the opening is less than 8’ wide.
+3. Cripple Studs: provide double 2x full height cripple Studs each side of all exterior
+wall openings over 4’ wide or as noted on the plans.
+4. Plates: All exterior walls and interior structural bearing walls shall have double top
+plates and be spliced for continuity per the plans & details. Top & sole plates shall be
+DF-Larch Std grade or better and the builder shall ensure the plates are strait and not
+warped to ensure strait walls.
+5. Framing @ Hold Downs: Unless specified otherwise, all hold downs (strap and rod)
+shall be attached to a post per the MFG and that post shall receive edge nailing along
+full height.
+6. Shear Material Coverage: Shear material shall be applied continuously from sill
+plate to top plate with hall the panel edges solidly blocked.
+7. CDX or OSB Sheathing: APA span rating of 24/0 or better, all panel edges blocked
+and nailed per the braced or Shear Wall Schedule. Fully line the outside of all of the
+exterior bearing walls w/ 3/8” CDX or 1/2” thick structural OSB ply sheathing nailed
+w/ min 8d nails @ 6” o.c. edges & 12” o.c. field U.O.N. No sheathing panels shall be
+less than 24” wide unless all the edges are solidly blocked.
+8. Powder driven anchor pins (shot pins) shall be ICBO approved & may be used on
+slab floor interior non-bearing walls. Shot pins shall be used in conjunction with plate
+washers and shall be 3/8” thick and spaced no more than 32" on canter.
+Post Notes:
+1. Post Connections: Unless otherwise noted freestanding beam-to-post connections
+shall have BC brackets, PC, EPC, CC or ECC’s as required to provide a positive
+connection per the MFG’s requirements typical.
+2. Post Base: U.O.N., individual isolated posts bearing on concrete shall be
+            secured by Simpson PB connectors placed in the concrete. PBS based with a 1” standoff shall
+be used at exterior locations.
+3. Bottom of posts shall have full bearing in a tight-fit condition to the supporting
+structural member of the same width below. (Example 4x12 beam w/ a 4x6 post
+connected with BC4)
+Roof Framing Notes:
+1. Roof Sheathing Notes:
+a. 
+Any sheathing panels used on roof shall not be less than 24 inches wide
+unless all edges are solidly blocked.
+b. 
+Roof sheathing shall be installed with the face grain perpendicular to framing
+members below, stagger the adjacent panels by 4 feet.
+c. 
+1/8” Gaps: The sheathing panels shall be installed such that there is a 1/8”
+gap maintained between all panel edges to accommodate possible swelling and or
+expansion.
+d. 
+Nailing: Roof sheathing shall be nailed w/ 8d nails @6” o.c. edges & 12” o.c.
+field.
+e. 
+Radiant Barrier: where a radiant barrier is adhered to the ply sheathing the
+sheathing shall be installed with the radiant barrier facing down. The radiant
+barrier shall have a 2” clr airspace between it and any insulation typ.
+2. Gypsum Ceiling: Adjacent joints of gypsum ceiling board shall be staggered not to
+occur on the same ceiling joists.
+3. Prefabricated Roof Trusses Notes:
+a. 
+The design and fabrication of roof trusses are to be performed by a registered
+professional engineer who is experienced in prefabricating trusses, hired by the
+truss manufacture. Prefabricated truss design and detailing shall meet
+requirements of code referred to above.
+b. 
+The truss manufacturer shall submit stamped, by a duly licensed engineer,
+calculations and shop drawings to James George for review and approval. The
+review is for general conformance to the project. James George is not responsible
+correctness and or completeness of the prefabricated truss shop drawings or
+calculations. Contractor shall then submit two sets of approved copies to the
+building official at least two weeks prior to frame inspection.
+c. 
+Additional Deflection Criteria: The truss engineer shall design the roof
+trusses to also meet the following criteria:
+1. Deflections of individual top chords of prefabricated roof trusses shall not
+exceed L/240 under combined dead and live loading.
+2. Maximum prefabricated truss bottom chord deflection shall be limited to L/
+480 for dead and live loading and L/720 for live loading.
+d. 
+Unless otherwise required, all trusses shall be designed as simply supported
+from end to end. Do not use interior walls for bearing unless approved otherwise.
+The truss engineer shall design the gable-end roof trusses to resist proper wind
+loads, particularly the 2x4 webs subject to bending in weak direction.
+e. 
+Truss engineer shall detail all required lateral bracing for the prefab trusses. In
+cantilever condition, truss engineer shall notify James George when uplift occurs.
+f. 
+Where multiple trusses are placed together as a Girder-truss, there trusses
+shall be identical in their geometry and are field connected with 16d at 6” shall be
+o.c. face nailing along all top chord, bottom chord and web members. The truss
+drawings and specifications must comply with the following standards:
+a. ANSI/TPI 1 “National Design Standards for Metal-Plate-Connected Wood
+Truss Construction.”
+b. TPI HIB Commentary and Recommendations for Handling and Installing &
+Bracing Metal Plate Connected Wood Trusses
+c. TPI DSB “Recommended Design Specifications for Temporary Bracing of
+Metal Plate Connected Wood Trusses.”
+4. Cantilevered Portions Of Rafters:  Notches on cantilevered portions of rafters are
+permitted provided the dimension of the remaining portion of the rafter is not less
+than 31/2 inches and the length of the cantilever does not exceed 24 inches.
+5. Ceiling Joist Taper Cut: Taper cuts at the ends of the ceiling joist shall not exceed
+one-fourth the depth of the member.
+Lumber Notes:
+1. 2x joists and 4x beams shall be Douglass Fir Larch #1 or better.
+2. Finger-joined studs shall not be used.
+3. Top plates, sill plates, studs and posts shall be Douglass Fir Larch Standard
+Grade or better for wall heights greater than 10 ft.
+4. 6x and 8x framing members shall be Douglass Fir Larch #1 or better.
+5. Mud sill, wood in direct contact with concrete and other members located
+within 6” of finish grade shall be pressure treated Hem Fir or Douglass Fir
+Larch, or foundation grade California redwood.
+6. All laminated veneer lumber shall be manufactured by “TrusJoist
+MacMillen” (ICBO Report numbers NER-481 and ER-4979, grade 1.9E DF/
+LP/WH). All parallel strand lumber shall be manufactured by TrustJoist
+McMillen (ICBO Report numbers 4217 and ER-4979, grade WH 2.0E).
+7. All lumber shall have moisture content not exceeding 19% prior to placement.
+Hardware:
+1. All framing anchors, straps, hangers, post caps, column bases, hold downs,
+hinge connectors, angles and clips shall be manufactured by “Simpson” or
+equal. Nailing schedule shall be in accordance with product requirements for
+maximum tabulated loads. Unless noted otherwise, Simpson type N nails shall
+be used with above framing connectors.
+2. 
+The contractor shall have a current copy of all pertinent Simpson
+catalogs on the jobsite at all times.
+3. 
+All flush mounted single floor joists shall have HU hangers and all
+flush mounted single roof rafters shall have “LSU” hangers.
+4. 
+All flush mounted sawn lumber that have beams or multiple joists shall
+have HHUS hangers to match beam width and depth where flush mounted.
+5. 
+All straps indicated on drawings shall be fastened with nails where
+bolts and nails are optional. Bolts are required only when specified. All
+straps shall be placed over the plywood sheathing.
+6. 
+16d and 10d fasteners are common nails and shall be used throughout
+this project except all toe nailing shall be 8d nails. 10d common nails may
+be replaced with 16d sinkers. Box nails shall not be used unless noted.
+7. 
+All nails exposed to the weather or pressure treated lumber shall be
+hot-dipped galvanized nails. Galvanized nails specified in shear or braced-
+wall schedule shall be hot dipped not electroplated galvanized.
+8. 
+The diameter of bored holes, including machine bolts, anchor bolts,
+hold-down bolts, shall not be larger than the specified bolt size plus 1/16th
+of an inch.
+Miscellaneous:
+1. Some hardware used in construction documents may not be readily available
+“off-the-shelf” and may need to the ordered prior to beginning construction
+or may need to be fabricated in steel shops to the Simpson or equal
+specifications in order to accept large beams, skew hangers, etc. It is the
+contractors responsibility to review plans in their entirely and to determine
+this at the time of the bid to prevent any delays/field problems.
+2. The floor joist/beams and roof rafters/beams may not be designed to current
+building code minimum requirements (L/240 TL and L/360 TL) for
+economical reasons. It is the designer’s recommends that the contractor/
+owner increase size of these members to accommodate the individual
+comfort level of each individual client per individual contractor/structure.
+Walk-thus prior to rocking/plumbing/electrical lessens labor/time/materials
+by allowing for doubled floor joists sistered beams etc. without ripping out
+soffits/rock/plumbing etc.
+3. The contractor and owner must build as shown and bring concerns/
+discrepancies to Designer/engineer prior to commencement of construction/
+demo. Any changes or discrepancies not clarified in writing (and approved by
+proper parties) may result in a failed building inspection. Engineering
+changes after construction are difficult and expensive to accommodate.
+CF-1 CF-1

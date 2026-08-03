@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="6540" viewBox="0 0 1440 6540">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b89b63"/>
+    </marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#111823" flood-opacity="0.18"/>
+    </filter>
+    <style>
+      .callout { fill: #fffaf2; stroke: #b89b63; stroke-width: 2; filter: url(#shadow); }
+      .num { fill: #101c2b; font: 800 18px Inter, Arial, sans-serif; }
+      .head { fill: #101c2b; font: 800 19px Inter, Arial, sans-serif; letter-spacing: .035em; }
+      .body { fill: #28313c; font: 500 16px Inter, Arial, sans-serif; }
+      .line { stroke: #b89b63; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <image href="shelina-pabani-premium-v9-desktop-full.png" x="0" y="0" width="1440" height="6540" preserveAspectRatio="xMinYMin meet"/>
+  <rect x="0" y="0" width="1440" height="6540" fill="rgba(16,28,43,0.04)"/>
+
+  <g>
+    <rect class="callout" x="34" y="92" width="356" height="126" rx="6"/>
+    <text class="num" x="60" y="126">01</text>
+    <text class="head" x="100" y="126">PROFESSIONAL FIRST READ</text>
+    <text class="body" x="60" y="157">The header now feels like a polished</text>
+    <text class="body" x="60" y="181">consulting brand, which helps visitors</text>
+    <text class="body" x="60" y="205">trust the site before reading details.</text>
+    <path class="line" d="M 170 92 C 132 64, 94 44, 56 28"/>
+  </g>
+
+  <g>
+    <rect class="callout" x="756" y="142" width="440" height="146" rx="6"/>
+    <text class="num" x="782" y="176">02</text>
+    <text class="head" x="822" y="176">CLEAR BUYER POSITIONING</text>
+    <text class="body" x="782" y="209">The headline quickly explains when to</text>
+    <text class="body" x="782" y="233">hire Shelina: growth, change, and hard</text>
+    <text class="body" x="782" y="257">leadership conversations. That is more</text>
+    <text class="body" x="782" y="281">useful than a broad training list.</text>
+    <path class="line" d="M 756 228 C 620 242, 460 265, 224 320"/>
+  </g>
+
+  <g>
+    <rect class="callout" x="920" y="576" width="386" height="128" rx="6"/>
+    <text class="num" x="946" y="610">03</text>
+    <text class="head" x="986" y="610">FOUNDER CONTEXT</text>
+    <text class="body" x="946" y="643">The portrait is paired with a concise</text>
+    <text class="body" x="946" y="667">credibility statement, so visitors see</text>
+    <text class="body" x="946" y="691">both the person and the expertise.</text>
+    <path class="line" d="M 1004 576 C 1000 512, 998 424, 1002 300"/>
+  </g>
+
+  <g>
+    <rect class="callout" x="438" y="878" width="414" height="136" rx="6"/>
+    <text class="num" x="464" y="912">04</text>
+    <text class="head" x="504" y="912">FAST CREDIBILITY</text>
+    <text class="body" x="464" y="945">The proof cards answer “why trust her?”</text>
+    <text class="body" x="464" y="969">before the visitor has to dig through a</text>
+    <text class="body" x="464" y="993">bio page, resume, or service catalog.</text>
+    <path class="line" d="M 536 1014 C 476 1044, 420 1060, 334 1056"/>
+  </g>
+
+  <g>
+    <rect class="callout" x="910" y="1192" width="416" height="148" rx="6"/>
+    <text class="num" x="936" y="1226">05</text>
+    <text class="head" x="976" y="1226">HIGH-TRUST CLIENT SIGNAL</text>
+    <text class="body" x="936" y="1259">The representative client section makes</text>
+    <text class="body" x="936" y="1283">enterprise and high-growth experience</text>
+    <text class="body" x="936" y="1307">obvious without making visitors hunt</text>
+    <text class="body" x="936" y="1331">for credibility across the site.</text>
+    <path class="line" d="M 910 1278 C 812 1288, 702 1304, 568 1340"/>
+  </g>
+
+  <g>
+    <rect class="callout" x="66" y="1840" width="444" height="150" rx="6"/>
+    <text class="num" x="92" y="1874">06</text>
+    <text class="head" x="132" y="1874">BUYER PATHS, NOT A MENU</text>
+    <text class="body" x="92" y="1907">The homepage turns her expertise into</text>
+    <text class="body" x="92" y="1931">clear business moments: new managers,</text>
+    <text class="body" x="92" y="1955">team alignment, learning at scale, and</text>
+    <text class="body" x="92" y="1979">leaders navigating change.</text>
+    <path class="line" d="M 510 1918 C 640 1910, 745 1882, 856 1836"/>
+  </g>
+
+  <g>
+    <rect class="callout" x="834" y="3242" width="462" height="150" rx="6"/>
+    <text class="num" x="858" y="3276">07</text>
+    <text class="head" x="898" y="3276">ENTERPRISE EXPERIENCE</text>
+    <text class="body" x="858" y="3309">Apple, Walmart.com, and Gap are treated</text>
+    <text class="body" x="858" y="3333">as career credibility, not decoration.</text>
+    <text class="body" x="858" y="3357">That shows she can operate in large,</text>
+    <text class="body" x="858" y="3381">complex organizations.</text>
+    <path class="line" d="M 986 3392 C 944 3464, 896 3518, 812 3566"/>
+  </g>
+
+  <g>
+    <rect class="callout" x="74" y="3248" width="432" height="150" rx="6"/>
+    <text class="num" x="100" y="3282">08</text>
+    <text class="head" x="140" y="3282">BIOGRAPHY WITH A PURPOSE</text>
+    <text class="body" x="100" y="3315">The biography is reframed as a reason</text>
+    <text class="body" x="100" y="3339">to inquire: enterprise leadership plus</text>
+    <text class="body" x="100" y="3363">hands-on delivery for managers, teams,</text>
+    <text class="body" x="100" y="3387">and executive rooms.</text>
+    <path class="line" d="M 506 3318 C 590 3298, 656 3306, 736 3348"/>
+  </g>
+
+  <g>
+    <rect class="callout" x="74" y="4050" width="450" height="150" rx="6"/>
+    <text class="num" x="100" y="4084">09</text>
+    <text class="head" x="140" y="4084">TESTIMONIALS AS PROOF</text>
+    <text class="body" x="100" y="4117">The testimonial area shows what buyers</text>
+    <text class="body" x="100" y="4141">actually care about: difficult material</text>
+    <text class="body" x="100" y="4165">becomes safer, clearer, and easier for</text>
+    <text class="body" x="100" y="4189">people to act on.</text>
+    <path class="line" d="M 524 4118 C 636 4174, 744 4238, 858 4324"/>
+  </g>
+
+  <g>
+    <rect class="callout" x="780" y="6074" width="446" height="150" rx="6"/>
+    <text class="num" x="806" y="6108">10</text>
+    <text class="head" x="846" y="6108">QUALIFIED INQUIRY</text>
+    <text class="body" x="806" y="6141">The contact section asks for audience,</text>
+    <text class="body" x="806" y="6165">business need, and timing, so the first</text>
+    <text class="body" x="806" y="6189">conversation starts with useful context</text>
+    <text class="body" x="806" y="6213">instead of a generic form submission.</text>
+    <path class="line" d="M 948 6074 C 970 6008, 994 5964, 1044 5918"/>
+  </g>
+</svg>
