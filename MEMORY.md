@@ -15,6 +15,7 @@
 - OpenClaw workspace is synced via git repo `https://github.com/mantarran-72/openclaw-workspace.git`.
 - Habit: `git pull --rebase` before starting work; commit + push after sessions so both machines stay in sync.
 - 2026-05-21 reinstall recovery: local workspace was reconnected to `https://github.com/etarran-aerospect/openclaw-workspace.git` after Ethan provided the repo URL. `origin/main` contained the missing long-term and daily memory files, which were restored selectively.
+- 2026-08-03: Unlinked Vercel from the workspace repository by removing the `.vercel` directory and committing the change. This resolves deployment issues related to the workspace repo.
 
 ## Setup notes
 - Primary chat surface: Telegram DM.
